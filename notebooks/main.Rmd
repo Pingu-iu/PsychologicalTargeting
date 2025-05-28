@@ -1,0 +1,59 @@
+---
+title: "R Notebook: Controlled Experiments Analysis"
+output: html_notebook
+---
+```{r}
+# Import data 
+combined_df<- read.csv("../data/platform_behavior/reach_results.csv")
+
+# Drop outliers
+combined_df <- combined_df[-135, ]
+combined_df <- combined_df[-35, ]
+
+head(combined_df)
+```
+### GLM for predicing the Reach
+
+```{r}
+# Factor data
+combined_df$Audience <- as.factor(combined_df$Audience)
+combined_df$AdType <- as.factor(combined_df$AdType)
+combined_df$Trial <- as.factor(combined_df$Trial)
+combined_df$AdID <- as.factor(combined_df$AdID)
+combined_df$ProfilingMethod <- as.factor(combined_df$ProfilingMethod)
+
+# Predicting reach as a function of audience, ad type and profiling method + control for ad type  
+model <- glm( cbind(Reach, Fail) ~ Audience * AdType * ProfilingMethod + AdID,
+              data = combined_df, 
+              family = quasibinomial)
+
+summary(model)
+```
+
+#### Model Diagnostics
+
+```{r}
+library(rsq)
+
+# Calculate R-squared
+r_squared <- rsq(model)
+print(r_squared)
+```
+
+```{r}
+plot(model)
+```
+
+```{r}
+library(ggeffects)
+library(ggplot2)
+library(dplyr)
+
+
+# Predict for Audience × AdType across profiling methods
+preds <- ggpredict(model, terms = c("Audience", "AdType", "ProfilingMethod"))
+
+# Plot
+plot(preds) +
+  labs(y = "Predicted Probability of Reach")
+```
