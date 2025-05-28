@@ -33,10 +33,8 @@ BASE_URL = f"https://graph.facebook.com/{API_VERSION}"
 #
 ############################################################################################################
 def get_stat_per_day(adset_id, start_date, end_date, access_token=ACCESS_TOKEN, stat='impressions'):
-    # Define the URL for the Graph API
     url = BASE_URL+f"/{adset_id}/insights"
 
-    # Define the parameters
     params = {
         'access_token': access_token, 
         'time_range': json.dumps({
@@ -44,13 +42,10 @@ def get_stat_per_day(adset_id, start_date, end_date, access_token=ACCESS_TOKEN, 
             'until': end_date
         }),
         'fields': stat,
-        'time_increment': 1  # Retrieves data on a daily basis
+        'time_increment': 1
     }
-    # Send the request
     response = requests.get(url, params=params)
-    #print(response.json())
     if response.status_code == 200:
-        #print(response.json())
         insights_data = response.json().get('data', [])
         return insights_data if insights_data else None
     else:
@@ -59,8 +54,6 @@ def get_stat_per_day(adset_id, start_date, end_date, access_token=ACCESS_TOKEN, 
         return None 
 
 def get_adset_total_stat(adset_id, access_token=ACCESS_TOKEN, stat='reach'):
-    
-    # Define the URL for the Graph API
     url = BASE_URL+f"/{adset_id}/insights"
     params = {
         'access_token': access_token,
@@ -85,8 +78,8 @@ def get_hourly_stat_for_day(day, adset_id, access_token, stat='impressions'):
             'since': day,
             'until': day
         }),
-        'time_increment': 1,  # Daily data with hourly breakdown
-        'breakdowns': 'hourly_stats_aggregated_by_advertiser_time_zone',  # Hourly data per day
+        'time_increment': 1,
+        'breakdowns': 'hourly_stats_aggregated_by_advertiser_time_zone',
         'access_token': access_token
     }
     response = requests.get(url, params=params)
@@ -114,7 +107,7 @@ def get_stat_by_breakdown(ad_id, access_token=ACCESS_TOKEN, stat='reach', breakd
     params = {
         'access_token': access_token,
         'fields': stat,  
-        'breakdowns': breakdown,  # hourly and gender breakdown
+        'breakdowns': breakdown,
         'time_increment': 1,  
         'date_preset': 'maximum' 
     }
