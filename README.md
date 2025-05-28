@@ -20,11 +20,11 @@ PsychologicalTargeting/
 │ ├── ad_appeal.ipynb
 │ ├── audiences.ipynb
 │ ├── pilots.ipynb
-│ └── main.nb.html # Rendered notebook output
+│ └── main.nb.html # Rendered R notebook output
+| └── main.Rmd # RMarkdown version of main 
 │
 ├── insights.py # Supporting functions for plotting and campaign result retrieval 
 ├── utils.py # Helper utilities for campaign details retrieval 
-├── main.Rmd # RMarkdown version of main report (if used)
 ├── .gitignore
 └── README.md # This file
 ```
