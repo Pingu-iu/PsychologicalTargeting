@@ -69,8 +69,8 @@ plot_segment <- function(segment_type_val, ylim_max_val) {
              aes(alpha = Ads_Design)) + # Use alpha for hatching effect
     scale_fill_manual(values = c("Introvert_ER" = introvert_color, "Extravert_ER" = Extravert_color),
                       labels = c("Introvert_ER" = "Introvert Ad", "Extravert_ER" = "Extravert Ad")) +
-    scale_alpha_manual(values = c("Design 1" = 1, "Design 2" = 0.5), # Adjust alpha for hatching effect
-                       labels = c("Design 1" = "Design 1 (Solid)", "Design 2" = "Design 2 (Hatched)")) +
+    scale_alpha_manual(values = c("Design 1" = 1, "Design 2" = 0.3), # Adjust alpha for hatching effect
+                       labels = c("Design 1" = "Design 1", "Design 2" = "Design 2")) +
     geom_text(aes(label = Reach_Value, y = Engagement_Rate + ylim_max_val * 0.03), # Adjust y-offset for reach text
               position = position_dodge(width = 0.8), vjust = 0, size = 3) + # Nudge text to match bars
     labs(
