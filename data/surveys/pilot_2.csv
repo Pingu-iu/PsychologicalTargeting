@@ -1,0 +1,473 @@
+prolific_pid,topic,choice,personality,interest_in_topic,Total approvals,Age,Sex,Ethnicity simplified,Country of birth,Country of residence,Nationality,Language,Student status,Employment status
+e8243da2f4badcbf20f1125f288fc161f56953c690d421490a4a157834fa94fb,books,introversion,introvert,3,8704.0,71,Male,White,United States,United States,United States,English,No,Full-Time
+e5fb42887615ffbfb365d8dd964872eef38189bfd18b4123cfb51ada12c51e8c,books,introversion,introvert,3,7819.0,57,Male,White,Germany,United States,United States,German,No,Other
+2f846c1089194fab935507f58a046350decfc5ea90a39667758743feac171300,books,equal,introvert,1,5512.0,61,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+3ff59727b6c167f18ada3c75693fed5cb0d98e5d34339bacc2b9ff0b4b3d8380,books,introversion,introvert,1,1580.0,46,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+a6522b5baebf6c7891cb4b65d6263544a8cc5a763143fd61d4d10ded276a762e,books,introversion,introvert,3,737.0,36,Male,White,United States,United States,United States,English,No,Full-Time
+ed969ee04e8593d59286e5c9537d0d59733340ed56d8708e249645dc61e9ac2b,books,introversion,introvert,3,3358.0,59,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+8c789f799828a39e17673dfe411ddd43f289a4090b11e453560a3befe1d15aa2,books,introversion,introvert,3,3724.0,49,Male,White,United States,United States,United States,English,No,Full-Time
+046a583f1fef98bbbf35508dbe98a26ae4f8c1f67c75595a018c71a63c63e39e,books,introversion,introvert,1,3405.0,56,Male,White,United States,United States,United States,English,No,Full-Time
+38d208a9202e917744fb1a33fe948a7b97d5c451ec950da9a3059ab00c9f137c,books,introversion,introvert,3,4232.0,31,Male,White,United States,United States,United States,English,No,Part-Time
+a42369950ad1b1a74f654745d2bc6f9400b3c8d5a306f25ae52a46040e04da80,books,introversion,introvert,3,1392.0,31,Female,Asian,United States,United States,United States,English,No,Full-Time
+4ebb007939806cec69a033e170d1812b8e6cfd3979c18d341c4c562846e39e70,books,introversion,introvert,1,5025.0,28,Male,Asian,United States,United States,United States,English,No,Full-Time
+e9ddb711e6b184fb81b1581f6bf8c0e2b8351b6604569f113fb8ee527ba7c73d,books,introversion,introvert,1,785.0,34,Female,Asian,Japan,United States,Japan,Japanese,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+84db36c0f274975537fbe44af6611a5f901ca29971d956e05f84625370aacd25,books,introversion,introvert,3,5717.0,42,Male,White,United States,United States,United States,English,No,Full-Time
+204b35f9398ad00faf3a221a925dbc8e02758fb6bc30e384d032e3d5f4ee7e94,books,introversion,introvert,3,6471.0,29,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+e6d3339a811570a9f7031c9c326e690d788bc8faf689645c688103748445c224,books,introversion,introvert,3,5647.0,34,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+1e511f4bf7486f60d3bddd7f666d1361f239ba541dd49b6fb01e92a978702b48,books,introversion,introvert,4,8133.0,48,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+641e3b41c38aa4322be875907f1764e0154343954531c5a8f98cfad6de2b29d6,books,introversion,introvert,1,7650.0,30,Female,Asian,Korea,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+8c6c3d71faffd82ae52a433d5ce225f8be2c620511597acb3f322fc781b5e292,books,introversion,introvert,3,3760.0,37,Male,White,United States,United States,United States,English,No,Full-Time
+19c82045377fd2322fa57504ad5c2843187f286e5d4ba249ade83e95ef7280db,books,equal,introvert,4,6899.0,38,Female,White,United States,United States,United States,English,DATA_EXPIRED,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+ac34f1168337284d22a10ad3fcd765e6d178a86a4e6861e77bd7446bbed1a6e9,books,introversion,introvert,2,1349.0,24,Female,White,United States,United States,United Kingdom,English,No,Part-Time
+2c3641480e52d69b7a467cc56ebe7bfa0d373c2705995ea09320f9019b939338,books,introversion,introvert,2,9539.0,64,Male,Asian,United States,United States,United States,English,No,Full-Time
+a9e50230766dd2618956ae063b3ed7b3600019e7d96224b38eb5dbcdbd4bca74,books,introversion,introvert,2,1654.0,34,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+561bba33308b460c3ab029d6a8b232e8b6550e2301ef83ea3265991bfe22dac3,books,extroversion,introvert,2,5844.0,59,Female,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+f31b65c9ef3677b6ccc9f223f21ef4c2c31a0488a96982f72b5fa34bbc2edf1e,books,introversion,introvert,2,9491.0,42,Male,White,United States,United States,United States,English,Yes,Full-Time
+279aab10767cb04ab351a709442d3f2effaafa20d64169b5d8bc03f14ef538fa,books,introversion,introvert,3,1571.0,36,Male,White,United States,United States,United States,English,No,Full-Time
+5e3ca76f50cb70adf05ca60f66ae372c26f647d16ed2de443ed75847a5d3074a,books,introversion,introvert,3,6023.0,35,Male,Mixed,United States,United States,United States,English,No,Full-Time
+e43d44eec7fbb9047fa99085f6d8a48c18836a41b1360f620bb78f9b4d11b7df,books,introversion,introvert,4,7359.0,41,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+9064f0f9fc70b73c882b1ff3b60bf35ccbdc5966c84ef416e66804c02be0a2c6,books,introversion,introvert,3,3354.0,61,Male,White,United States,United States,United States,English,No,Full-Time
+56691893db40421711c11e1847e71e39197d4124015e5341cfac5ece840476dd,books,introversion,introvert,0,3559.0,24,Female,White,United States,United States,United States,English,Yes,Full-Time
+b4d9c7858e7aa7801b88de032932988124e38a099464d2243a3ba732f6604a7e,books,equal,introvert,4,8348.0,36,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+29933de9bfb7d7bcc106dba28b8b4b8e535d718f1a4912a4e7c9903b216dd863,books,introversion,introvert,1,3309.0,66,Male,White,Netherlands,United States,Netherlands,Dutch,No,Full-Time
+22c473471f0c0ea8144858239f5b52adb45c09917b02d63310a72bde7654cf60,books,introversion,introvert,3,681.0,40,Female,Black,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+c7d44cf04c42fd700a766e8d2fd01b7eb87fccdfbcfa51bc268d072d57402bcc,books,equal,introvert,0,545.0,26,Female,Asian,United States,United States,Korea,English,No,Full-Time
+b790e82878c10daa7ca636c9a7c61a5f8621f232c0785c44d91acd2cdad7a77b,books,extroversion,introvert,3,2389.0,25,Female,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+8271ae4dda7947f08cc6e04bde322146a1cb3570becd6a3eaca963cbdda8aca3,books,introversion,introvert,3,4499.0,31,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+24a41014c474e1c001e322a5a430f495e16645ff32c4b8093c26db442338a7f6,books,introversion,introvert,1,821.0,50,Female,White,United States,United States,United States,English,No,Full-Time
+ed05a23b28eb66dca774d60267fc4b02895bfa96a37addb0ef9a6b8a8bd4d434,books,introversion,introvert,2,3881.0,31,Male,Asian,United States,United States,United States,English,No,Full-Time
+f948181cb5fe53c032af4ddf13ea21cb170c3414012c72d215256aa43560e920,books,introversion,introvert,0,6842.0,31,Female,White,United States,United States,United States,English,No,Full-Time
+ab4aa5d9268a4bece8e98b252fbb0136828ffc86bac00dfaa1c053361613403e,books,introversion,introvert,4,625.0,35,Female,White,United States,United States,United States,English,No,Part-Time
+fe48479bbbbfc73b15e85d65e39c6f886936e3a4d60eb0bf3ba39a0c2eb79f4b,books,equal,introvert,3,3942.0,50,Male,White,United States,United States,United States,English,No,Other
+f0ef8b8d56092411f778ecc8f353bca680db14e6d41415756e51a6add6095b43,books,introversion,introvert,2,2724.0,53,Male,White,United States,United States,United States,English,No,Part-Time
+2ba3a5ef252ad44729b4755d01897f33262fd9f10bdf4bd9ec865c4629fbd608,books,introversion,introvert,3,5883.0,62,Female,White,United States,United States,United States,English,No,Part-Time
+19a1ef07db86155fb84dd9212599c110a07cd890ce9d9fdf9b3be224f20df415,books,extroversion,introvert,2,4900.0,29,Female,White,United States,United States,United States,English,No,Full-Time
+0b1a7ead97d854d59c9bb46d86bce2197f0bac535a79ef771d96daabfa40b86e,books,introversion,introvert,3,1826.0,56,Male,White,United States,United States,United States,English,No,Full-Time
+dd73aa4ef01506fa0647c38634b080098bdc2d93f7a1ed1920d38014fdb9f68b,books,extroversion,introvert,2,2334.0,39,Male,Asian,United States,United States,United States,English,Yes,Full-Time
+6c1eb8623b18c19cc79ab4827e6bd999162d79dd131aef22370114c675f49b82,books,equal,introvert,3,1394.0,38,Male,Other,United States,United States,United States,English,No,Full-Time
+ee6bfaa23b8812bbc0aa3919ad19cb589ecfda91a6ee11aa3fe812930baa5148,books,introversion,introvert,3,4770.0,38,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+dda96bba936f508f28b8a119bbee7263c586b0fc6226d486a62f05b0ac8f6b72,books,introversion,introvert,3,6400.0,50,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+fd31081c3741c3838ee2a87a5526a4e11399ec1a6f1069ea177d3fd8ac40c89d,books,equal,introvert,4,938.0,39,Female,Mixed,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+aef56c133a608450b75130630c5a3fc91fdfa1841ca94ca8703b6efedb5a570c,books,introversion,introvert,1,5361.0,49,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+912303d2f52758ac17a63a89b9ade5f224b94f0b94f527025da2f8adf0f9a663,books,equal,introvert,1,5964.0,34,Male,White,United States,United States,United States,English,No,Full-Time
+baa17db014b60653cf571b9d77b4ef247daa784e4e2cf56552cc36605e764e9b,books,introversion,introvert,3,2817.0,39,Female,White,United States,United States,United States,English,No,Full-Time
+57205ce80c7884d8a8330d7d84a1c0a85865a7cf0614a1d19d98504e14efe92c,books,introversion,introvert,4,1022.0,42,Female,Black,United States,United States,United States,English,No,Full-Time
+772845ceed1b9c13009f68f4bbfbc25688024383bac81f03e3f046d46066e1f0,books,introversion,introvert,4,2201.0,67,Male,White,United States,United States,United States,English,No,Full-Time
+85757d9c65b39853fc641c20ac59b2fbe07bbaa4385ad4361049f8b6b2731f2a,books,introversion,introvert,3,5324.0,31,Female,Asian,United States,United States,United States,English,No,Full-Time
+639592be64cbe6a1d55f81b2d0d2ac97bf222395ff1ae923019899de59c76e91,books,extroversion,introvert,0,1672.0,29,Female,Asian,Bangladesh,United States,Bangladesh,Bengali,Yes,Full-Time
+599d6d9a6a16b6714591af5d01f045d29f75a647e054b3106f2cb345c0f3ab06,books,introversion,introvert,3,1799.0,41,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+9790e750739cef3309dc04fa02696ea1fa99f49905274069a4f3db90fab18056,books,equal,introvert,3,1879.0,37,Male,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+d7f8a13c8d14d7521a17d4f4272e48b7b0debc0600dfc0b6690807d85090e5ed,books,extroversion,introvert,3,1327.0,43,Male,White,United States,United States,United States,English,No,Full-Time
+f607f390586a2c367839674526921957adbfb02a4a02a85ab3b8bf5f232d0199,books,introversion,introvert,1,2282.0,26,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+6d7ed7e6efbddfa6a1994892ec50e2592d1ab5bc025b8be8481967e1799051c8,books,equal,introvert,4,540.0,43,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+ee6aaaa28f1b4db7b5e96a7a603e8e032b74078e67ec4a0e486f7a4a70cfee47,books,introversion,introvert,3,5081.0,32,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+f665192ff4bcb9adb460db82a5a2ef054584d62c1a8de8f0a67a0fd217849e94,books,introversion,introvert,3,6366.0,52,Female,White,United States,United States,United States,English,No,Full-Time
+604f049e4a8be65f5d2e1182502bc5602d14f3b91b66ecd9e4312ddae371cec2,books,introversion,introvert,3,3372.0,32,Male,Other,Mexico,United States,United States,English,Yes,Full-Time
+20ae3387d5f656eea892c9de5890661107c35a006a1d0a7c4d233b6fc3dd8b50,books,introversion,introvert,3,752.0,31,Female,Asian,Vietnam,United States,Vietnam,Vietnamese,No,DATA_EXPIRED
+1e14fbd92937c7b9df2cd6ce57f53971212666f242ae0fc29992305d9471d5d3,books,introversion,introvert,2,2154.0,48,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+ca2f03c8345a52afd7b9f2bcc97806a4ae348e00596c39ae5f1732225e573706,books,introversion,introvert,4,649.0,60,Female,White,United Kingdom,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+c30f7b7ba39ad6009c813afb1b9ab524becc12746b9cbceea18f06e313739330,books,introversion,introvert,3,7530.0,44,Female,Asian,United States,United States,United States,English,No,Full-Time
+6104f7d117e97012af866c9dfb91495bf6710efb4bf12da8365a467c014817f9,books,introversion,introvert,2,4781.0,36,Male,Mixed,United States,United States,United States,English,No,Full-Time
+6104f7d117e97012af866c9dfb91495bf6710efb4bf12da8365a467c014817f9,books,introversion,introvert,2,4781.0,36,Male,Mixed,United States,United States,United States,English,No,Full-Time
+44d78f7f57fbe9ade6bc65f18b49db950e556686914b2b8df022f4c3be285803,books,introversion,introvert,2,1834.0,38,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+ee10973941cadb5731242033742c08b3b175f216eed9e202c335526dfd8cd608,books,extroversion,introvert,4,972.0,35,Female,DATA_EXPIRED,United States,United States,United States,English,No,Full-Time
+584dad99ee520a7e61ee86f1c6eca0782b19e8ec6c124e3fb7b0dccb55051135,books,introversion,introvert,4,3378.0,26,Female,White,United States,United States,United States,English,No,Full-Time
+003a15c5f241c9d1346062fdac0d04dbe7b5c7af53d77e65e23a31f23bab17ac,books,extroversion,introvert,4,3324.0,34,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+edfff12fecd3c886eab4d4bb2304595e1f65e1eeb5811ed7c448314da528a7e6,books,extroversion,introvert,3,820.0,37,Female,Black,United States,United States,United States,English,No,Part-Time
+b23d695e410680503126ce4d794721ea60add361ea86fa1cb4e385844922cd37,books,introversion,extravert,2,4447.0,40,Male,White,United States,United States,United States,English,No,Full-Time
+527431fa37cf2463e3ae10b331130450ad2ca8da541fd38529cf5134a6c60dfc,books,equal,extravert,3,6582.0,28,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+1ea5e973d83b0b164193c3380bc2820aa931bd2e00ec8aafca7584cb569b30e7,books,introversion,extravert,2,4113.0,59,Male,White,United States,United States,United States,English,No,Full-Time
+01783584844bde63fca23df56d2b3cf94c8f8c21fd86279ca42ab6d1eb4f76d7,books,equal,extravert,4,8178.0,35,Female,White,United States,United States,United States,English,No,Full-Time
+875107442094e14b03832a065e79fdfc2ba963471a45dde0faac9a9eb8e1a26e,books,extroversion,extravert,4,6275.0,36,Male,Asian,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+469d9bcc4529b5bdb191648040d6fd3c370b7817d3ca7c6a07e4447f77b15a23,books,introversion,extravert,2,2331.0,44,Male,Other,Turkey,United States,Turkey,Turkish,No,Full-Time
+6d6f55dea82199ee328964c762a064a24b41ffcacac1e2e7e9efcf064c9828e0,books,extroversion,extravert,4,4852.0,36,Female,White,United States,United States,United States,English,No,Full-Time
+7d6e4a48ba9dc5725d8ffe503cc4f901f6b0430c8561c7dde0c8b42f0a23c794,books,introversion,extravert,3,5283.0,55,Male,White,Spain,United States,United States,English,No,Full-Time
+44639d92cf7b8b1239dbce125123f83cdb6c44e8c880941a98c24fdece563600,books,introversion,extravert,2,2955.0,62,Male,White,United States,United States,United States,English,No,Full-Time
+ba40eda591c4cfe6d34113349f61daba654590fd3b0671767508389c8de2afa2,books,introversion,extravert,3,1558.0,69,Female,White,United States,United States,United States,English,No,Other
+2f73e76520c24cfd330034a6c942950fd5b5a1d4ab6f2a9da27db48a4c4bbbd9,books,extroversion,extravert,3,2894.0,44,Male,White,United States,United States,United States,English,No,Full-Time
+f623f33fcdc3e60b89e3466e69e76a299d3daec9fa76c1c5268f99df981d3f65,books,introversion,extravert,3,2335.0,68,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+2e94525505593a9135dac64ef5fa9bb1fdb3ea811af39f11ad8ce865789a770b,books,introversion,extravert,3,1588.0,65,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+28784bbcbbe0382158cc9078003e99b139ab54843f468390b5a81f6c536288a7,books,equal,extravert,3,4913.0,56,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+122d7553d6a9dd981ceece3abd9ceb2463d687d86c80b6dd0d63a57e8049b097,books,introversion,extravert,2,7581.0,45,Male,White,United States,United States,United States,English,Yes,Full-Time
+0cfe5373fcbcbd61013dd2c763ed41b366170a8438067b256ef76e61956111ae,books,introversion,extravert,4,2646.0,60,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+e22eda86a09523ae15a59d927d546657feda98fb9fb6c092fb2f762c7c94dfa4,books,equal,extravert,4,4641.0,48,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+f8d36cca369d23afb59b1e074de88f0c38faaa3a0db404fcfb069e2310a3e21f,books,introversion,extravert,0,4811.0,60,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+e38f43269031a955e39a123b2c6138b7b241ca6c0ad44acabecf3b11e164e48b,books,extroversion,extravert,4,2507.0,36,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+445625a05344db675417b034ddb954f212e6064afdb6b9183f2a4b3350f28bde,books,introversion,extravert,4,2435.0,30,Female,White,United States,United States,United States,English,No,Part-Time
+ab10a1ec037138a2d2ec1e8bc1edb10422773a3f137bb7cda0d992aaa98d0ce9,books,introversion,extravert,1,3351.0,45,Male,White,United States,United States,United States,English,No,Full-Time
+8d018bfd9763efee6bb5a0a7afb84af0952c7685581fb3ee867b776d6481c55b,books,extroversion,extravert,1,4261.0,30,Male,White,United States,United States,United States,English,Yes,Full-Time
+6f74e9ca0b2b5f18ae6f556202fef1b3f16f07758b23a220dba5843225944a3a,books,introversion,extravert,3,3930.0,55,Male,White,United States,United States,United States,English,No,Part-Time
+b5bea74371605759ddc77867a00bb2c0eab2d322f4b153ef98acf67854565132,books,introversion,extravert,4,4607.0,71,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+4a84bf2df6b81171a2ab0052e077990acefbd17dc06a0bc1c560628a40dfbd11,books,equal,extravert,2,6099.0,46,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+df65de70b9daeea0d577a07dd30b94e4ab8137f8e92981f26594cba4cccd93ed,books,introversion,extravert,1,4089.0,69,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+84e0fa78f04ca8fd9ec845731f57a82457ab6cb4086a727f118a89097df7f188,books,introversion,extravert,1,5983.0,51,Female,White,United States,United States,United States,English,No,Full-Time
+38badb0c0124f2ad3ff65e33150eff928ffb6a1b9430ff21158ce78b173c4651,books,introversion,extravert,4,2637.0,62,Female,White,United States,United States,United States,English,No,Full-Time
+45a796ce4491209b12b774f715faf8ac7d582e9638e2443e96c61c85e0431b62,books,introversion,extravert,3,7171.0,58,Male,White,United States,United States,United States,English,No,Full-Time
+ee66e0b11c29548be2cb86115d507cc3d1824fa2dd18307fc043fd820782fea1,books,introversion,extravert,4,847.0,30,Female,White,United States,United States,United States,English,No,Full-Time
+4396bd64ee041071cb7d27a052545e1b6c50de7269c104b15c809fb1a4f50751,books,equal,extravert,4,1409.0,54,Female,White,United States,United States,United States,English,Yes,Full-Time
+18ccb78afb9a6f7e78977cf4603a9853ca00af14640d4a6ccad8b9dea832f24e,books,extroversion,extravert,3,1284.0,27,Male,White,Russian Federation,United States,Russian Federation,English,No,Part-Time
+4916723814f2e06554523cf9697ad26c800b0d38beb0433580891a8763b64688,books,introversion,extravert,3,1382.0,50,Female,White,United States,United States,United States,English,No,Full-Time
+d85ccafe0f69f1eb6e2a8c17f048d8dec6f9bf39d9e85cacfeeb5e1212f9afa2,books,introversion,extravert,3,2582.0,54,Female,White,United States,United States,United States,English,No,Part-Time
+433ef778e0e7bb83fb53ec3ed057ced34feba866542c557bb0eb9ec5010db610,books,introversion,extravert,3,474.0,37,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+ffb18386e4fb0d0cbf4615d9d7da0eb9ef31b5c9fba9606e34c3d9a768fd713f,books,introversion,extravert,1,7523.0,56,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+5fc712458a773d22ead869e8eb853464feb6a201574007921f05fb875815b600,books,extroversion,extravert,3,3075.0,50,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+2a1a575fc8c5280a5870af6015a955f291106c5c5686552553611f6e9753c6a1,books,introversion,extravert,3,5248.0,43,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+c4fa874995b997055e83eb7bf906e6cb1d8130cab541510c749bfa97e2b9bdf9,books,introversion,extravert,3,1830.0,41,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+bede5157018b0b7d1e4ef8d2eb6315ad2a841320d460c7ef4fd4cf1a93dbb9e6,books,extroversion,extravert,3,5528.0,44,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+4d4d80c2523bf6faa4006e179526b7594e32117304ee7308595ef44fdf031d3b,books,extroversion,extravert,4,1294.0,33,Female,Black,United States,United States,United States,English,No,Part-Time
+3d13a0655ca5578661a35053fa27f1e09fb7ee9d6928e7b759636abb24c1ab74,books,equal,extravert,4,2332.0,41,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+a56b38e11088c1c3e2e22a267e80bd9c81f527005316c051f5ca3f27f32a8d5d,books,introversion,extravert,4,4344.0,48,Female,White,United States,United States,United States,English,No,Full-Time
+e8243da2f4badcbf20f1125f288fc161f56953c690d421490a4a157834fa94fb,hiking,introversion,introvert,3,8704.0,71,Male,White,United States,United States,United States,English,No,Full-Time
+e5fb42887615ffbfb365d8dd964872eef38189bfd18b4123cfb51ada12c51e8c,hiking,introversion,introvert,4,7819.0,57,Male,White,Germany,United States,United States,German,No,Other
+2f846c1089194fab935507f58a046350decfc5ea90a39667758743feac171300,hiking,extroversion,introvert,1,5512.0,61,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+3ff59727b6c167f18ada3c75693fed5cb0d98e5d34339bacc2b9ff0b4b3d8380,hiking,introversion,introvert,4,1580.0,46,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+a6522b5baebf6c7891cb4b65d6263544a8cc5a763143fd61d4d10ded276a762e,hiking,introversion,introvert,3,737.0,36,Male,White,United States,United States,United States,English,No,Full-Time
+ed969ee04e8593d59286e5c9537d0d59733340ed56d8708e249645dc61e9ac2b,hiking,introversion,introvert,4,3358.0,59,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+8c789f799828a39e17673dfe411ddd43f289a4090b11e453560a3befe1d15aa2,hiking,equal,introvert,2,3724.0,49,Male,White,United States,United States,United States,English,No,Full-Time
+046a583f1fef98bbbf35508dbe98a26ae4f8c1f67c75595a018c71a63c63e39e,hiking,introversion,introvert,3,3405.0,56,Male,White,United States,United States,United States,English,No,Full-Time
+38d208a9202e917744fb1a33fe948a7b97d5c451ec950da9a3059ab00c9f137c,hiking,introversion,introvert,2,4232.0,31,Male,White,United States,United States,United States,English,No,Part-Time
+a42369950ad1b1a74f654745d2bc6f9400b3c8d5a306f25ae52a46040e04da80,hiking,introversion,introvert,3,1392.0,31,Female,Asian,United States,United States,United States,English,No,Full-Time
+4ebb007939806cec69a033e170d1812b8e6cfd3979c18d341c4c562846e39e70,hiking,introversion,introvert,1,5025.0,28,Male,Asian,United States,United States,United States,English,No,Full-Time
+e9ddb711e6b184fb81b1581f6bf8c0e2b8351b6604569f113fb8ee527ba7c73d,hiking,introversion,introvert,2,785.0,34,Female,Asian,Japan,United States,Japan,Japanese,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+84db36c0f274975537fbe44af6611a5f901ca29971d956e05f84625370aacd25,hiking,introversion,introvert,4,5717.0,42,Male,White,United States,United States,United States,English,No,Full-Time
+204b35f9398ad00faf3a221a925dbc8e02758fb6bc30e384d032e3d5f4ee7e94,hiking,introversion,introvert,3,6471.0,29,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+e6d3339a811570a9f7031c9c326e690d788bc8faf689645c688103748445c224,hiking,introversion,introvert,1,5647.0,34,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+1e511f4bf7486f60d3bddd7f666d1361f239ba541dd49b6fb01e92a978702b48,hiking,introversion,introvert,2,8133.0,48,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+641e3b41c38aa4322be875907f1764e0154343954531c5a8f98cfad6de2b29d6,hiking,extroversion,introvert,0,7650.0,30,Female,Asian,Korea,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+8c6c3d71faffd82ae52a433d5ce225f8be2c620511597acb3f322fc781b5e292,hiking,introversion,introvert,4,3760.0,37,Male,White,United States,United States,United States,English,No,Full-Time
+19c82045377fd2322fa57504ad5c2843187f286e5d4ba249ade83e95ef7280db,hiking,equal,introvert,4,6899.0,38,Female,White,United States,United States,United States,English,DATA_EXPIRED,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+ac34f1168337284d22a10ad3fcd765e6d178a86a4e6861e77bd7446bbed1a6e9,hiking,equal,introvert,4,1349.0,24,Female,White,United States,United States,United Kingdom,English,No,Part-Time
+2c3641480e52d69b7a467cc56ebe7bfa0d373c2705995ea09320f9019b939338,hiking,introversion,introvert,4,9539.0,64,Male,Asian,United States,United States,United States,English,No,Full-Time
+a9e50230766dd2618956ae063b3ed7b3600019e7d96224b38eb5dbcdbd4bca74,hiking,equal,introvert,4,1654.0,34,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+561bba33308b460c3ab029d6a8b232e8b6550e2301ef83ea3265991bfe22dac3,hiking,extroversion,introvert,2,5844.0,59,Female,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+f31b65c9ef3677b6ccc9f223f21ef4c2c31a0488a96982f72b5fa34bbc2edf1e,hiking,introversion,introvert,3,9491.0,42,Male,White,United States,United States,United States,English,Yes,Full-Time
+279aab10767cb04ab351a709442d3f2effaafa20d64169b5d8bc03f14ef538fa,hiking,extroversion,introvert,3,1571.0,36,Male,White,United States,United States,United States,English,No,Full-Time
+5e3ca76f50cb70adf05ca60f66ae372c26f647d16ed2de443ed75847a5d3074a,hiking,extroversion,introvert,3,6023.0,35,Male,Mixed,United States,United States,United States,English,No,Full-Time
+e43d44eec7fbb9047fa99085f6d8a48c18836a41b1360f620bb78f9b4d11b7df,hiking,extroversion,introvert,4,7359.0,41,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+9064f0f9fc70b73c882b1ff3b60bf35ccbdc5966c84ef416e66804c02be0a2c6,hiking,introversion,introvert,4,3354.0,61,Male,White,United States,United States,United States,English,No,Full-Time
+56691893db40421711c11e1847e71e39197d4124015e5341cfac5ece840476dd,hiking,extroversion,introvert,1,3559.0,24,Female,White,United States,United States,United States,English,Yes,Full-Time
+b4d9c7858e7aa7801b88de032932988124e38a099464d2243a3ba732f6604a7e,hiking,introversion,introvert,4,8348.0,36,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+29933de9bfb7d7bcc106dba28b8b4b8e535d718f1a4912a4e7c9903b216dd863,hiking,introversion,introvert,3,3309.0,66,Male,White,Netherlands,United States,Netherlands,Dutch,No,Full-Time
+22c473471f0c0ea8144858239f5b52adb45c09917b02d63310a72bde7654cf60,hiking,equal,introvert,3,681.0,40,Female,Black,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+c7d44cf04c42fd700a766e8d2fd01b7eb87fccdfbcfa51bc268d072d57402bcc,hiking,introversion,introvert,1,545.0,26,Female,Asian,United States,United States,Korea,English,No,Full-Time
+b790e82878c10daa7ca636c9a7c61a5f8621f232c0785c44d91acd2cdad7a77b,hiking,extroversion,introvert,3,2389.0,25,Female,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+8271ae4dda7947f08cc6e04bde322146a1cb3570becd6a3eaca963cbdda8aca3,hiking,equal,introvert,2,4499.0,31,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+24a41014c474e1c001e322a5a430f495e16645ff32c4b8093c26db442338a7f6,hiking,extroversion,introvert,4,821.0,50,Female,White,United States,United States,United States,English,No,Full-Time
+ed05a23b28eb66dca774d60267fc4b02895bfa96a37addb0ef9a6b8a8bd4d434,hiking,introversion,introvert,1,3881.0,31,Male,Asian,United States,United States,United States,English,No,Full-Time
+f948181cb5fe53c032af4ddf13ea21cb170c3414012c72d215256aa43560e920,hiking,introversion,introvert,2,6842.0,31,Female,White,United States,United States,United States,English,No,Full-Time
+ab4aa5d9268a4bece8e98b252fbb0136828ffc86bac00dfaa1c053361613403e,hiking,introversion,introvert,3,625.0,35,Female,White,United States,United States,United States,English,No,Part-Time
+fe48479bbbbfc73b15e85d65e39c6f886936e3a4d60eb0bf3ba39a0c2eb79f4b,hiking,equal,introvert,3,3942.0,50,Male,White,United States,United States,United States,English,No,Other
+f0ef8b8d56092411f778ecc8f353bca680db14e6d41415756e51a6add6095b43,hiking,introversion,introvert,3,2724.0,53,Male,White,United States,United States,United States,English,No,Part-Time
+2ba3a5ef252ad44729b4755d01897f33262fd9f10bdf4bd9ec865c4629fbd608,hiking,introversion,introvert,4,5883.0,62,Female,White,United States,United States,United States,English,No,Part-Time
+19a1ef07db86155fb84dd9212599c110a07cd890ce9d9fdf9b3be224f20df415,hiking,introversion,introvert,3,4900.0,29,Female,White,United States,United States,United States,English,No,Full-Time
+0b1a7ead97d854d59c9bb46d86bce2197f0bac535a79ef771d96daabfa40b86e,hiking,introversion,introvert,4,1826.0,56,Male,White,United States,United States,United States,English,No,Full-Time
+dd73aa4ef01506fa0647c38634b080098bdc2d93f7a1ed1920d38014fdb9f68b,hiking,introversion,introvert,2,2334.0,39,Male,Asian,United States,United States,United States,English,Yes,Full-Time
+6c1eb8623b18c19cc79ab4827e6bd999162d79dd131aef22370114c675f49b82,hiking,extroversion,introvert,3,1394.0,38,Male,Other,United States,United States,United States,English,No,Full-Time
+ee6bfaa23b8812bbc0aa3919ad19cb589ecfda91a6ee11aa3fe812930baa5148,hiking,extroversion,introvert,3,4770.0,38,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+dda96bba936f508f28b8a119bbee7263c586b0fc6226d486a62f05b0ac8f6b72,hiking,introversion,introvert,3,6400.0,50,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+fd31081c3741c3838ee2a87a5526a4e11399ec1a6f1069ea177d3fd8ac40c89d,hiking,extroversion,introvert,4,938.0,39,Female,Mixed,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+aef56c133a608450b75130630c5a3fc91fdfa1841ca94ca8703b6efedb5a570c,hiking,extroversion,introvert,3,5361.0,49,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+912303d2f52758ac17a63a89b9ade5f224b94f0b94f527025da2f8adf0f9a663,hiking,extroversion,introvert,3,5964.0,34,Male,White,United States,United States,United States,English,No,Full-Time
+baa17db014b60653cf571b9d77b4ef247daa784e4e2cf56552cc36605e764e9b,hiking,introversion,introvert,4,2817.0,39,Female,White,United States,United States,United States,English,No,Full-Time
+57205ce80c7884d8a8330d7d84a1c0a85865a7cf0614a1d19d98504e14efe92c,hiking,extroversion,introvert,4,1022.0,42,Female,Black,United States,United States,United States,English,No,Full-Time
+772845ceed1b9c13009f68f4bbfbc25688024383bac81f03e3f046d46066e1f0,hiking,introversion,introvert,3,2201.0,67,Male,White,United States,United States,United States,English,No,Full-Time
+85757d9c65b39853fc641c20ac59b2fbe07bbaa4385ad4361049f8b6b2731f2a,hiking,introversion,introvert,3,5324.0,31,Female,Asian,United States,United States,United States,English,No,Full-Time
+639592be64cbe6a1d55f81b2d0d2ac97bf222395ff1ae923019899de59c76e91,hiking,extroversion,introvert,2,1672.0,29,Female,Asian,Bangladesh,United States,Bangladesh,Bengali,Yes,Full-Time
+599d6d9a6a16b6714591af5d01f045d29f75a647e054b3106f2cb345c0f3ab06,hiking,introversion,introvert,1,1799.0,41,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+9790e750739cef3309dc04fa02696ea1fa99f49905274069a4f3db90fab18056,hiking,equal,introvert,4,1879.0,37,Male,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+d7f8a13c8d14d7521a17d4f4272e48b7b0debc0600dfc0b6690807d85090e5ed,hiking,introversion,introvert,4,1327.0,43,Male,White,United States,United States,United States,English,No,Full-Time
+f607f390586a2c367839674526921957adbfb02a4a02a85ab3b8bf5f232d0199,hiking,introversion,introvert,4,2282.0,26,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+6d7ed7e6efbddfa6a1994892ec50e2592d1ab5bc025b8be8481967e1799051c8,hiking,extroversion,introvert,4,540.0,43,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+ee6aaaa28f1b4db7b5e96a7a603e8e032b74078e67ec4a0e486f7a4a70cfee47,hiking,introversion,introvert,4,5081.0,32,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+f665192ff4bcb9adb460db82a5a2ef054584d62c1a8de8f0a67a0fd217849e94,hiking,introversion,introvert,2,6366.0,52,Female,White,United States,United States,United States,English,No,Full-Time
+604f049e4a8be65f5d2e1182502bc5602d14f3b91b66ecd9e4312ddae371cec2,hiking,introversion,introvert,4,3372.0,32,Male,Other,Mexico,United States,United States,English,Yes,Full-Time
+20ae3387d5f656eea892c9de5890661107c35a006a1d0a7c4d233b6fc3dd8b50,hiking,extroversion,introvert,3,752.0,31,Female,Asian,Vietnam,United States,Vietnam,Vietnamese,No,DATA_EXPIRED
+1e14fbd92937c7b9df2cd6ce57f53971212666f242ae0fc29992305d9471d5d3,hiking,introversion,introvert,2,2154.0,48,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+ca2f03c8345a52afd7b9f2bcc97806a4ae348e00596c39ae5f1732225e573706,hiking,introversion,introvert,4,649.0,60,Female,White,United Kingdom,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+c30f7b7ba39ad6009c813afb1b9ab524becc12746b9cbceea18f06e313739330,hiking,introversion,introvert,4,7530.0,44,Female,Asian,United States,United States,United States,English,No,Full-Time
+6104f7d117e97012af866c9dfb91495bf6710efb4bf12da8365a467c014817f9,hiking,introversion,introvert,3,4781.0,36,Male,Mixed,United States,United States,United States,English,No,Full-Time
+6104f7d117e97012af866c9dfb91495bf6710efb4bf12da8365a467c014817f9,hiking,introversion,introvert,3,4781.0,36,Male,Mixed,United States,United States,United States,English,No,Full-Time
+44d78f7f57fbe9ade6bc65f18b49db950e556686914b2b8df022f4c3be285803,hiking,introversion,introvert,4,1834.0,38,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+ee10973941cadb5731242033742c08b3b175f216eed9e202c335526dfd8cd608,hiking,extroversion,introvert,4,972.0,35,Female,DATA_EXPIRED,United States,United States,United States,English,No,Full-Time
+584dad99ee520a7e61ee86f1c6eca0782b19e8ec6c124e3fb7b0dccb55051135,hiking,introversion,introvert,4,3378.0,26,Female,White,United States,United States,United States,English,No,Full-Time
+003a15c5f241c9d1346062fdac0d04dbe7b5c7af53d77e65e23a31f23bab17ac,hiking,equal,introvert,4,3324.0,34,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+edfff12fecd3c886eab4d4bb2304595e1f65e1eeb5811ed7c448314da528a7e6,hiking,extroversion,introvert,3,820.0,37,Female,Black,United States,United States,United States,English,No,Part-Time
+b23d695e410680503126ce4d794721ea60add361ea86fa1cb4e385844922cd37,hiking,extroversion,extravert,3,4447.0,40,Male,White,United States,United States,United States,English,No,Full-Time
+527431fa37cf2463e3ae10b331130450ad2ca8da541fd38529cf5134a6c60dfc,hiking,extroversion,extravert,2,6582.0,28,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+1ea5e973d83b0b164193c3380bc2820aa931bd2e00ec8aafca7584cb569b30e7,hiking,extroversion,extravert,3,4113.0,59,Male,White,United States,United States,United States,English,No,Full-Time
+01783584844bde63fca23df56d2b3cf94c8f8c21fd86279ca42ab6d1eb4f76d7,hiking,extroversion,extravert,3,8178.0,35,Female,White,United States,United States,United States,English,No,Full-Time
+875107442094e14b03832a065e79fdfc2ba963471a45dde0faac9a9eb8e1a26e,hiking,extroversion,extravert,4,6275.0,36,Male,Asian,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+469d9bcc4529b5bdb191648040d6fd3c370b7817d3ca7c6a07e4447f77b15a23,hiking,extroversion,extravert,3,2331.0,44,Male,Other,Turkey,United States,Turkey,Turkish,No,Full-Time
+6d6f55dea82199ee328964c762a064a24b41ffcacac1e2e7e9efcf064c9828e0,hiking,introversion,extravert,3,4852.0,36,Female,White,United States,United States,United States,English,No,Full-Time
+7d6e4a48ba9dc5725d8ffe503cc4f901f6b0430c8561c7dde0c8b42f0a23c794,hiking,equal,extravert,3,5283.0,55,Male,White,Spain,United States,United States,English,No,Full-Time
+44639d92cf7b8b1239dbce125123f83cdb6c44e8c880941a98c24fdece563600,hiking,introversion,extravert,2,2955.0,62,Male,White,United States,United States,United States,English,No,Full-Time
+ba40eda591c4cfe6d34113349f61daba654590fd3b0671767508389c8de2afa2,hiking,equal,extravert,4,1558.0,69,Female,White,United States,United States,United States,English,No,Other
+2f73e76520c24cfd330034a6c942950fd5b5a1d4ab6f2a9da27db48a4c4bbbd9,hiking,introversion,extravert,3,2894.0,44,Male,White,United States,United States,United States,English,No,Full-Time
+f623f33fcdc3e60b89e3466e69e76a299d3daec9fa76c1c5268f99df981d3f65,hiking,equal,extravert,3,2335.0,68,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+2e94525505593a9135dac64ef5fa9bb1fdb3ea811af39f11ad8ce865789a770b,hiking,introversion,extravert,3,1588.0,65,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+28784bbcbbe0382158cc9078003e99b139ab54843f468390b5a81f6c536288a7,hiking,introversion,extravert,4,4913.0,56,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+122d7553d6a9dd981ceece3abd9ceb2463d687d86c80b6dd0d63a57e8049b097,hiking,introversion,extravert,3,7581.0,45,Male,White,United States,United States,United States,English,Yes,Full-Time
+0cfe5373fcbcbd61013dd2c763ed41b366170a8438067b256ef76e61956111ae,hiking,introversion,extravert,4,2646.0,60,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+e22eda86a09523ae15a59d927d546657feda98fb9fb6c092fb2f762c7c94dfa4,hiking,equal,extravert,4,4641.0,48,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+f8d36cca369d23afb59b1e074de88f0c38faaa3a0db404fcfb069e2310a3e21f,hiking,extroversion,extravert,4,4811.0,60,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+e38f43269031a955e39a123b2c6138b7b241ca6c0ad44acabecf3b11e164e48b,hiking,extroversion,extravert,4,2507.0,36,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+445625a05344db675417b034ddb954f212e6064afdb6b9183f2a4b3350f28bde,hiking,introversion,extravert,3,2435.0,30,Female,White,United States,United States,United States,English,No,Part-Time
+ab10a1ec037138a2d2ec1e8bc1edb10422773a3f137bb7cda0d992aaa98d0ce9,hiking,introversion,extravert,2,3351.0,45,Male,White,United States,United States,United States,English,No,Full-Time
+8d018bfd9763efee6bb5a0a7afb84af0952c7685581fb3ee867b776d6481c55b,hiking,extroversion,extravert,3,4261.0,30,Male,White,United States,United States,United States,English,Yes,Full-Time
+6f74e9ca0b2b5f18ae6f556202fef1b3f16f07758b23a220dba5843225944a3a,hiking,introversion,extravert,3,3930.0,55,Male,White,United States,United States,United States,English,No,Part-Time
+b5bea74371605759ddc77867a00bb2c0eab2d322f4b153ef98acf67854565132,hiking,introversion,extravert,4,4607.0,71,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+4a84bf2df6b81171a2ab0052e077990acefbd17dc06a0bc1c560628a40dfbd11,hiking,equal,extravert,2,6099.0,46,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+df65de70b9daeea0d577a07dd30b94e4ab8137f8e92981f26594cba4cccd93ed,hiking,introversion,extravert,3,4089.0,69,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+84e0fa78f04ca8fd9ec845731f57a82457ab6cb4086a727f118a89097df7f188,hiking,introversion,extravert,3,5983.0,51,Female,White,United States,United States,United States,English,No,Full-Time
+38badb0c0124f2ad3ff65e33150eff928ffb6a1b9430ff21158ce78b173c4651,hiking,introversion,extravert,4,2637.0,62,Female,White,United States,United States,United States,English,No,Full-Time
+45a796ce4491209b12b774f715faf8ac7d582e9638e2443e96c61c85e0431b62,hiking,extroversion,extravert,4,7171.0,58,Male,White,United States,United States,United States,English,No,Full-Time
+ee66e0b11c29548be2cb86115d507cc3d1824fa2dd18307fc043fd820782fea1,hiking,extroversion,extravert,3,847.0,30,Female,White,United States,United States,United States,English,No,Full-Time
+4396bd64ee041071cb7d27a052545e1b6c50de7269c104b15c809fb1a4f50751,hiking,equal,extravert,4,1409.0,54,Female,White,United States,United States,United States,English,Yes,Full-Time
+18ccb78afb9a6f7e78977cf4603a9853ca00af14640d4a6ccad8b9dea832f24e,hiking,extroversion,extravert,4,1284.0,27,Male,White,Russian Federation,United States,Russian Federation,English,No,Part-Time
+4916723814f2e06554523cf9697ad26c800b0d38beb0433580891a8763b64688,hiking,equal,extravert,1,1382.0,50,Female,White,United States,United States,United States,English,No,Full-Time
+d85ccafe0f69f1eb6e2a8c17f048d8dec6f9bf39d9e85cacfeeb5e1212f9afa2,hiking,equal,extravert,3,2582.0,54,Female,White,United States,United States,United States,English,No,Part-Time
+433ef778e0e7bb83fb53ec3ed057ced34feba866542c557bb0eb9ec5010db610,hiking,introversion,extravert,3,474.0,37,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+ffb18386e4fb0d0cbf4615d9d7da0eb9ef31b5c9fba9606e34c3d9a768fd713f,hiking,equal,extravert,2,7523.0,56,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+5fc712458a773d22ead869e8eb853464feb6a201574007921f05fb875815b600,hiking,extroversion,extravert,4,3075.0,50,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+2a1a575fc8c5280a5870af6015a955f291106c5c5686552553611f6e9753c6a1,hiking,equal,extravert,3,5248.0,43,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+c4fa874995b997055e83eb7bf906e6cb1d8130cab541510c749bfa97e2b9bdf9,hiking,introversion,extravert,3,1830.0,41,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+bede5157018b0b7d1e4ef8d2eb6315ad2a841320d460c7ef4fd4cf1a93dbb9e6,hiking,introversion,extravert,3,5528.0,44,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+4d4d80c2523bf6faa4006e179526b7594e32117304ee7308595ef44fdf031d3b,hiking,extroversion,extravert,4,1294.0,33,Female,Black,United States,United States,United States,English,No,Part-Time
+3d13a0655ca5578661a35053fa27f1e09fb7ee9d6928e7b759636abb24c1ab74,hiking,equal,extravert,4,2332.0,41,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+a56b38e11088c1c3e2e22a267e80bd9c81f527005316c051f5ca3f27f32a8d5d,hiking,introversion,extravert,4,4344.0,48,Female,White,United States,United States,United States,English,No,Full-Time
+e8243da2f4badcbf20f1125f288fc161f56953c690d421490a4a157834fa94fb,workingout_1,equal,introvert,3,8704.0,71,Male,White,United States,United States,United States,English,No,Full-Time
+e5fb42887615ffbfb365d8dd964872eef38189bfd18b4123cfb51ada12c51e8c,workingout_1,introversion,introvert,3,7819.0,57,Male,White,Germany,United States,United States,German,No,Other
+2f846c1089194fab935507f58a046350decfc5ea90a39667758743feac171300,workingout_1,introversion,introvert,1,5512.0,61,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+3ff59727b6c167f18ada3c75693fed5cb0d98e5d34339bacc2b9ff0b4b3d8380,workingout_1,introversion,introvert,4,1580.0,46,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+a6522b5baebf6c7891cb4b65d6263544a8cc5a763143fd61d4d10ded276a762e,workingout_1,introversion,introvert,3,737.0,36,Male,White,United States,United States,United States,English,No,Full-Time
+ed969ee04e8593d59286e5c9537d0d59733340ed56d8708e249645dc61e9ac2b,workingout_1,extroversion,introvert,3,3358.0,59,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+8c789f799828a39e17673dfe411ddd43f289a4090b11e453560a3befe1d15aa2,workingout_1,extroversion,introvert,3,3724.0,49,Male,White,United States,United States,United States,English,No,Full-Time
+046a583f1fef98bbbf35508dbe98a26ae4f8c1f67c75595a018c71a63c63e39e,workingout_1,introversion,introvert,3,3405.0,56,Male,White,United States,United States,United States,English,No,Full-Time
+38d208a9202e917744fb1a33fe948a7b97d5c451ec950da9a3059ab00c9f137c,workingout_1,extroversion,introvert,2,4232.0,31,Male,White,United States,United States,United States,English,No,Part-Time
+a42369950ad1b1a74f654745d2bc6f9400b3c8d5a306f25ae52a46040e04da80,workingout_1,introversion,introvert,1,1392.0,31,Female,Asian,United States,United States,United States,English,No,Full-Time
+4ebb007939806cec69a033e170d1812b8e6cfd3979c18d341c4c562846e39e70,workingout_1,extroversion,introvert,3,5025.0,28,Male,Asian,United States,United States,United States,English,No,Full-Time
+e9ddb711e6b184fb81b1581f6bf8c0e2b8351b6604569f113fb8ee527ba7c73d,workingout_1,introversion,introvert,2,785.0,34,Female,Asian,Japan,United States,Japan,Japanese,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+84db36c0f274975537fbe44af6611a5f901ca29971d956e05f84625370aacd25,workingout_1,introversion,introvert,2,5717.0,42,Male,White,United States,United States,United States,English,No,Full-Time
+204b35f9398ad00faf3a221a925dbc8e02758fb6bc30e384d032e3d5f4ee7e94,workingout_1,introversion,introvert,2,6471.0,29,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+e6d3339a811570a9f7031c9c326e690d788bc8faf689645c688103748445c224,workingout_1,introversion,introvert,3,5647.0,34,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+1e511f4bf7486f60d3bddd7f666d1361f239ba541dd49b6fb01e92a978702b48,workingout_1,introversion,introvert,3,8133.0,48,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+641e3b41c38aa4322be875907f1764e0154343954531c5a8f98cfad6de2b29d6,workingout_1,introversion,introvert,0,7650.0,30,Female,Asian,Korea,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+8c6c3d71faffd82ae52a433d5ce225f8be2c620511597acb3f322fc781b5e292,workingout_1,introversion,introvert,3,3760.0,37,Male,White,United States,United States,United States,English,No,Full-Time
+19c82045377fd2322fa57504ad5c2843187f286e5d4ba249ade83e95ef7280db,workingout_1,introversion,introvert,3,6899.0,38,Female,White,United States,United States,United States,English,DATA_EXPIRED,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+ac34f1168337284d22a10ad3fcd765e6d178a86a4e6861e77bd7446bbed1a6e9,workingout_1,extroversion,introvert,3,1349.0,24,Female,White,United States,United States,United Kingdom,English,No,Part-Time
+2c3641480e52d69b7a467cc56ebe7bfa0d373c2705995ea09320f9019b939338,workingout_1,introversion,introvert,4,9539.0,64,Male,Asian,United States,United States,United States,English,No,Full-Time
+a9e50230766dd2618956ae063b3ed7b3600019e7d96224b38eb5dbcdbd4bca74,workingout_1,equal,introvert,3,1654.0,34,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+561bba33308b460c3ab029d6a8b232e8b6550e2301ef83ea3265991bfe22dac3,workingout_1,extroversion,introvert,2,5844.0,59,Female,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+f31b65c9ef3677b6ccc9f223f21ef4c2c31a0488a96982f72b5fa34bbc2edf1e,workingout_1,introversion,introvert,1,9491.0,42,Male,White,United States,United States,United States,English,Yes,Full-Time
+279aab10767cb04ab351a709442d3f2effaafa20d64169b5d8bc03f14ef538fa,workingout_1,extroversion,introvert,3,1571.0,36,Male,White,United States,United States,United States,English,No,Full-Time
+5e3ca76f50cb70adf05ca60f66ae372c26f647d16ed2de443ed75847a5d3074a,workingout_1,extroversion,introvert,3,6023.0,35,Male,Mixed,United States,United States,United States,English,No,Full-Time
+e43d44eec7fbb9047fa99085f6d8a48c18836a41b1360f620bb78f9b4d11b7df,workingout_1,extroversion,introvert,4,7359.0,41,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+9064f0f9fc70b73c882b1ff3b60bf35ccbdc5966c84ef416e66804c02be0a2c6,workingout_1,introversion,introvert,3,3354.0,61,Male,White,United States,United States,United States,English,No,Full-Time
+56691893db40421711c11e1847e71e39197d4124015e5341cfac5ece840476dd,workingout_1,extroversion,introvert,0,3559.0,24,Female,White,United States,United States,United States,English,Yes,Full-Time
+b4d9c7858e7aa7801b88de032932988124e38a099464d2243a3ba732f6604a7e,workingout_1,equal,introvert,3,8348.0,36,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+29933de9bfb7d7bcc106dba28b8b4b8e535d718f1a4912a4e7c9903b216dd863,workingout_1,equal,introvert,2,3309.0,66,Male,White,Netherlands,United States,Netherlands,Dutch,No,Full-Time
+22c473471f0c0ea8144858239f5b52adb45c09917b02d63310a72bde7654cf60,workingout_1,introversion,introvert,3,681.0,40,Female,Black,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+c7d44cf04c42fd700a766e8d2fd01b7eb87fccdfbcfa51bc268d072d57402bcc,workingout_1,introversion,introvert,1,545.0,26,Female,Asian,United States,United States,Korea,English,No,Full-Time
+b790e82878c10daa7ca636c9a7c61a5f8621f232c0785c44d91acd2cdad7a77b,workingout_1,extroversion,introvert,3,2389.0,25,Female,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+8271ae4dda7947f08cc6e04bde322146a1cb3570becd6a3eaca963cbdda8aca3,workingout_1,introversion,introvert,1,4499.0,31,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+24a41014c474e1c001e322a5a430f495e16645ff32c4b8093c26db442338a7f6,workingout_1,introversion,introvert,2,821.0,50,Female,White,United States,United States,United States,English,No,Full-Time
+ed05a23b28eb66dca774d60267fc4b02895bfa96a37addb0ef9a6b8a8bd4d434,workingout_1,equal,introvert,0,3881.0,31,Male,Asian,United States,United States,United States,English,No,Full-Time
+f948181cb5fe53c032af4ddf13ea21cb170c3414012c72d215256aa43560e920,workingout_1,introversion,introvert,0,6842.0,31,Female,White,United States,United States,United States,English,No,Full-Time
+ab4aa5d9268a4bece8e98b252fbb0136828ffc86bac00dfaa1c053361613403e,workingout_1,introversion,introvert,2,625.0,35,Female,White,United States,United States,United States,English,No,Part-Time
+fe48479bbbbfc73b15e85d65e39c6f886936e3a4d60eb0bf3ba39a0c2eb79f4b,workingout_1,equal,introvert,3,3942.0,50,Male,White,United States,United States,United States,English,No,Other
+f0ef8b8d56092411f778ecc8f353bca680db14e6d41415756e51a6add6095b43,workingout_1,equal,introvert,3,2724.0,53,Male,White,United States,United States,United States,English,No,Part-Time
+2ba3a5ef252ad44729b4755d01897f33262fd9f10bdf4bd9ec865c4629fbd608,workingout_1,introversion,introvert,4,5883.0,62,Female,White,United States,United States,United States,English,No,Part-Time
+19a1ef07db86155fb84dd9212599c110a07cd890ce9d9fdf9b3be224f20df415,workingout_1,introversion,introvert,3,4900.0,29,Female,White,United States,United States,United States,English,No,Full-Time
+0b1a7ead97d854d59c9bb46d86bce2197f0bac535a79ef771d96daabfa40b86e,workingout_1,introversion,introvert,3,1826.0,56,Male,White,United States,United States,United States,English,No,Full-Time
+dd73aa4ef01506fa0647c38634b080098bdc2d93f7a1ed1920d38014fdb9f68b,workingout_1,introversion,introvert,2,2334.0,39,Male,Asian,United States,United States,United States,English,Yes,Full-Time
+6c1eb8623b18c19cc79ab4827e6bd999162d79dd131aef22370114c675f49b82,workingout_1,equal,introvert,4,1394.0,38,Male,Other,United States,United States,United States,English,No,Full-Time
+ee6bfaa23b8812bbc0aa3919ad19cb589ecfda91a6ee11aa3fe812930baa5148,workingout_1,introversion,introvert,3,4770.0,38,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+dda96bba936f508f28b8a119bbee7263c586b0fc6226d486a62f05b0ac8f6b72,workingout_1,introversion,introvert,3,6400.0,50,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+fd31081c3741c3838ee2a87a5526a4e11399ec1a6f1069ea177d3fd8ac40c89d,workingout_1,extroversion,introvert,4,938.0,39,Female,Mixed,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+aef56c133a608450b75130630c5a3fc91fdfa1841ca94ca8703b6efedb5a570c,workingout_1,equal,introvert,3,5361.0,49,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+912303d2f52758ac17a63a89b9ade5f224b94f0b94f527025da2f8adf0f9a663,workingout_1,extroversion,introvert,1,5964.0,34,Male,White,United States,United States,United States,English,No,Full-Time
+baa17db014b60653cf571b9d77b4ef247daa784e4e2cf56552cc36605e764e9b,workingout_1,introversion,introvert,3,2817.0,39,Female,White,United States,United States,United States,English,No,Full-Time
+57205ce80c7884d8a8330d7d84a1c0a85865a7cf0614a1d19d98504e14efe92c,workingout_1,introversion,introvert,4,1022.0,42,Female,Black,United States,United States,United States,English,No,Full-Time
+772845ceed1b9c13009f68f4bbfbc25688024383bac81f03e3f046d46066e1f0,workingout_1,introversion,introvert,3,2201.0,67,Male,White,United States,United States,United States,English,No,Full-Time
+85757d9c65b39853fc641c20ac59b2fbe07bbaa4385ad4361049f8b6b2731f2a,workingout_1,introversion,introvert,3,5324.0,31,Female,Asian,United States,United States,United States,English,No,Full-Time
+639592be64cbe6a1d55f81b2d0d2ac97bf222395ff1ae923019899de59c76e91,workingout_1,extroversion,introvert,2,1672.0,29,Female,Asian,Bangladesh,United States,Bangladesh,Bengali,Yes,Full-Time
+599d6d9a6a16b6714591af5d01f045d29f75a647e054b3106f2cb345c0f3ab06,workingout_1,extroversion,introvert,2,1799.0,41,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+9790e750739cef3309dc04fa02696ea1fa99f49905274069a4f3db90fab18056,workingout_1,introversion,introvert,4,1879.0,37,Male,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+d7f8a13c8d14d7521a17d4f4272e48b7b0debc0600dfc0b6690807d85090e5ed,workingout_1,introversion,introvert,4,1327.0,43,Male,White,United States,United States,United States,English,No,Full-Time
+f607f390586a2c367839674526921957adbfb02a4a02a85ab3b8bf5f232d0199,workingout_1,equal,introvert,2,2282.0,26,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+6d7ed7e6efbddfa6a1994892ec50e2592d1ab5bc025b8be8481967e1799051c8,workingout_1,extroversion,introvert,4,540.0,43,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+ee6aaaa28f1b4db7b5e96a7a603e8e032b74078e67ec4a0e486f7a4a70cfee47,workingout_1,equal,introvert,2,5081.0,32,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+f665192ff4bcb9adb460db82a5a2ef054584d62c1a8de8f0a67a0fd217849e94,workingout_1,introversion,introvert,2,6366.0,52,Female,White,United States,United States,United States,English,No,Full-Time
+604f049e4a8be65f5d2e1182502bc5602d14f3b91b66ecd9e4312ddae371cec2,workingout_1,introversion,introvert,4,3372.0,32,Male,Other,Mexico,United States,United States,English,Yes,Full-Time
+20ae3387d5f656eea892c9de5890661107c35a006a1d0a7c4d233b6fc3dd8b50,workingout_1,extroversion,introvert,3,752.0,31,Female,Asian,Vietnam,United States,Vietnam,Vietnamese,No,DATA_EXPIRED
+1e14fbd92937c7b9df2cd6ce57f53971212666f242ae0fc29992305d9471d5d3,workingout_1,introversion,introvert,2,2154.0,48,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+ca2f03c8345a52afd7b9f2bcc97806a4ae348e00596c39ae5f1732225e573706,workingout_1,equal,introvert,4,649.0,60,Female,White,United Kingdom,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+c30f7b7ba39ad6009c813afb1b9ab524becc12746b9cbceea18f06e313739330,workingout_1,introversion,introvert,3,7530.0,44,Female,Asian,United States,United States,United States,English,No,Full-Time
+6104f7d117e97012af866c9dfb91495bf6710efb4bf12da8365a467c014817f9,workingout_1,introversion,introvert,3,4781.0,36,Male,Mixed,United States,United States,United States,English,No,Full-Time
+6104f7d117e97012af866c9dfb91495bf6710efb4bf12da8365a467c014817f9,workingout_1,introversion,introvert,3,4781.0,36,Male,Mixed,United States,United States,United States,English,No,Full-Time
+44d78f7f57fbe9ade6bc65f18b49db950e556686914b2b8df022f4c3be285803,workingout_1,extroversion,introvert,3,1834.0,38,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+ee10973941cadb5731242033742c08b3b175f216eed9e202c335526dfd8cd608,workingout_1,equal,introvert,4,972.0,35,Female,DATA_EXPIRED,United States,United States,United States,English,No,Full-Time
+584dad99ee520a7e61ee86f1c6eca0782b19e8ec6c124e3fb7b0dccb55051135,workingout_1,introversion,introvert,4,3378.0,26,Female,White,United States,United States,United States,English,No,Full-Time
+003a15c5f241c9d1346062fdac0d04dbe7b5c7af53d77e65e23a31f23bab17ac,workingout_1,equal,introvert,3,3324.0,34,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+edfff12fecd3c886eab4d4bb2304595e1f65e1eeb5811ed7c448314da528a7e6,workingout_1,introversion,introvert,4,820.0,37,Female,Black,United States,United States,United States,English,No,Part-Time
+b23d695e410680503126ce4d794721ea60add361ea86fa1cb4e385844922cd37,workingout_1,extroversion,extravert,2,4447.0,40,Male,White,United States,United States,United States,English,No,Full-Time
+527431fa37cf2463e3ae10b331130450ad2ca8da541fd38529cf5134a6c60dfc,workingout_1,introversion,extravert,3,6582.0,28,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+1ea5e973d83b0b164193c3380bc2820aa931bd2e00ec8aafca7584cb569b30e7,workingout_1,extroversion,extravert,3,4113.0,59,Male,White,United States,United States,United States,English,No,Full-Time
+01783584844bde63fca23df56d2b3cf94c8f8c21fd86279ca42ab6d1eb4f76d7,workingout_1,equal,extravert,3,8178.0,35,Female,White,United States,United States,United States,English,No,Full-Time
+875107442094e14b03832a065e79fdfc2ba963471a45dde0faac9a9eb8e1a26e,workingout_1,extroversion,extravert,4,6275.0,36,Male,Asian,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+469d9bcc4529b5bdb191648040d6fd3c370b7817d3ca7c6a07e4447f77b15a23,workingout_1,introversion,extravert,3,2331.0,44,Male,Other,Turkey,United States,Turkey,Turkish,No,Full-Time
+6d6f55dea82199ee328964c762a064a24b41ffcacac1e2e7e9efcf064c9828e0,workingout_1,extroversion,extravert,3,4852.0,36,Female,White,United States,United States,United States,English,No,Full-Time
+7d6e4a48ba9dc5725d8ffe503cc4f901f6b0430c8561c7dde0c8b42f0a23c794,workingout_1,introversion,extravert,3,5283.0,55,Male,White,Spain,United States,United States,English,No,Full-Time
+44639d92cf7b8b1239dbce125123f83cdb6c44e8c880941a98c24fdece563600,workingout_1,introversion,extravert,2,2955.0,62,Male,White,United States,United States,United States,English,No,Full-Time
+ba40eda591c4cfe6d34113349f61daba654590fd3b0671767508389c8de2afa2,workingout_1,equal,extravert,4,1558.0,69,Female,White,United States,United States,United States,English,No,Other
+2f73e76520c24cfd330034a6c942950fd5b5a1d4ab6f2a9da27db48a4c4bbbd9,workingout_1,introversion,extravert,4,2894.0,44,Male,White,United States,United States,United States,English,No,Full-Time
+f623f33fcdc3e60b89e3466e69e76a299d3daec9fa76c1c5268f99df981d3f65,workingout_1,equal,extravert,2,2335.0,68,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+2e94525505593a9135dac64ef5fa9bb1fdb3ea811af39f11ad8ce865789a770b,workingout_1,extroversion,extravert,3,1588.0,65,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+28784bbcbbe0382158cc9078003e99b139ab54843f468390b5a81f6c536288a7,workingout_1,extroversion,extravert,3,4913.0,56,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+122d7553d6a9dd981ceece3abd9ceb2463d687d86c80b6dd0d63a57e8049b097,workingout_1,equal,extravert,2,7581.0,45,Male,White,United States,United States,United States,English,Yes,Full-Time
+0cfe5373fcbcbd61013dd2c763ed41b366170a8438067b256ef76e61956111ae,workingout_1,introversion,extravert,4,2646.0,60,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+e22eda86a09523ae15a59d927d546657feda98fb9fb6c092fb2f762c7c94dfa4,workingout_1,introversion,extravert,3,4641.0,48,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+f8d36cca369d23afb59b1e074de88f0c38faaa3a0db404fcfb069e2310a3e21f,workingout_1,equal,extravert,4,4811.0,60,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+e38f43269031a955e39a123b2c6138b7b241ca6c0ad44acabecf3b11e164e48b,workingout_1,extroversion,extravert,3,2507.0,36,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+445625a05344db675417b034ddb954f212e6064afdb6b9183f2a4b3350f28bde,workingout_1,introversion,extravert,3,2435.0,30,Female,White,United States,United States,United States,English,No,Part-Time
+ab10a1ec037138a2d2ec1e8bc1edb10422773a3f137bb7cda0d992aaa98d0ce9,workingout_1,introversion,extravert,3,3351.0,45,Male,White,United States,United States,United States,English,No,Full-Time
+8d018bfd9763efee6bb5a0a7afb84af0952c7685581fb3ee867b776d6481c55b,workingout_1,extroversion,extravert,1,4261.0,30,Male,White,United States,United States,United States,English,Yes,Full-Time
+6f74e9ca0b2b5f18ae6f556202fef1b3f16f07758b23a220dba5843225944a3a,workingout_1,introversion,extravert,3,3930.0,55,Male,White,United States,United States,United States,English,No,Part-Time
+b5bea74371605759ddc77867a00bb2c0eab2d322f4b153ef98acf67854565132,workingout_1,introversion,extravert,2,4607.0,71,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+4a84bf2df6b81171a2ab0052e077990acefbd17dc06a0bc1c560628a40dfbd11,workingout_1,equal,extravert,2,6099.0,46,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+df65de70b9daeea0d577a07dd30b94e4ab8137f8e92981f26594cba4cccd93ed,workingout_1,equal,extravert,3,4089.0,69,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+84e0fa78f04ca8fd9ec845731f57a82457ab6cb4086a727f118a89097df7f188,workingout_1,introversion,extravert,1,5983.0,51,Female,White,United States,United States,United States,English,No,Full-Time
+38badb0c0124f2ad3ff65e33150eff928ffb6a1b9430ff21158ce78b173c4651,workingout_1,introversion,extravert,3,2637.0,62,Female,White,United States,United States,United States,English,No,Full-Time
+45a796ce4491209b12b774f715faf8ac7d582e9638e2443e96c61c85e0431b62,workingout_1,introversion,extravert,3,7171.0,58,Male,White,United States,United States,United States,English,No,Full-Time
+ee66e0b11c29548be2cb86115d507cc3d1824fa2dd18307fc043fd820782fea1,workingout_1,equal,extravert,1,847.0,30,Female,White,United States,United States,United States,English,No,Full-Time
+4396bd64ee041071cb7d27a052545e1b6c50de7269c104b15c809fb1a4f50751,workingout_1,equal,extravert,4,1409.0,54,Female,White,United States,United States,United States,English,Yes,Full-Time
+18ccb78afb9a6f7e78977cf4603a9853ca00af14640d4a6ccad8b9dea832f24e,workingout_1,equal,extravert,2,1284.0,27,Male,White,Russian Federation,United States,Russian Federation,English,No,Part-Time
+4916723814f2e06554523cf9697ad26c800b0d38beb0433580891a8763b64688,workingout_1,extroversion,extravert,2,1382.0,50,Female,White,United States,United States,United States,English,No,Full-Time
+d85ccafe0f69f1eb6e2a8c17f048d8dec6f9bf39d9e85cacfeeb5e1212f9afa2,workingout_1,introversion,extravert,1,2582.0,54,Female,White,United States,United States,United States,English,No,Part-Time
+433ef778e0e7bb83fb53ec3ed057ced34feba866542c557bb0eb9ec5010db610,workingout_1,introversion,extravert,3,474.0,37,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+ffb18386e4fb0d0cbf4615d9d7da0eb9ef31b5c9fba9606e34c3d9a768fd713f,workingout_1,introversion,extravert,2,7523.0,56,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+5fc712458a773d22ead869e8eb853464feb6a201574007921f05fb875815b600,workingout_1,extroversion,extravert,4,3075.0,50,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+2a1a575fc8c5280a5870af6015a955f291106c5c5686552553611f6e9753c6a1,workingout_1,introversion,extravert,3,5248.0,43,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+c4fa874995b997055e83eb7bf906e6cb1d8130cab541510c749bfa97e2b9bdf9,workingout_1,introversion,extravert,2,1830.0,41,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+bede5157018b0b7d1e4ef8d2eb6315ad2a841320d460c7ef4fd4cf1a93dbb9e6,workingout_1,extroversion,extravert,3,5528.0,44,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+4d4d80c2523bf6faa4006e179526b7594e32117304ee7308595ef44fdf031d3b,workingout_1,introversion,extravert,4,1294.0,33,Female,Black,United States,United States,United States,English,No,Part-Time
+3d13a0655ca5578661a35053fa27f1e09fb7ee9d6928e7b759636abb24c1ab74,workingout_1,introversion,extravert,3,2332.0,41,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+a56b38e11088c1c3e2e22a267e80bd9c81f527005316c051f5ca3f27f32a8d5d,workingout_1,extroversion,extravert,2,4344.0,48,Female,White,United States,United States,United States,English,No,Full-Time
+e8243da2f4badcbf20f1125f288fc161f56953c690d421490a4a157834fa94fb,workingout_2,introversion,introvert,3,8704.0,71,Male,White,United States,United States,United States,English,No,Full-Time
+e5fb42887615ffbfb365d8dd964872eef38189bfd18b4123cfb51ada12c51e8c,workingout_2,introversion,introvert,4,7819.0,57,Male,White,Germany,United States,United States,German,No,Other
+2f846c1089194fab935507f58a046350decfc5ea90a39667758743feac171300,workingout_2,introversion,introvert,1,5512.0,61,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+3ff59727b6c167f18ada3c75693fed5cb0d98e5d34339bacc2b9ff0b4b3d8380,workingout_2,introversion,introvert,4,1580.0,46,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+a6522b5baebf6c7891cb4b65d6263544a8cc5a763143fd61d4d10ded276a762e,workingout_2,equal,introvert,0,737.0,36,Male,White,United States,United States,United States,English,No,Full-Time
+ed969ee04e8593d59286e5c9537d0d59733340ed56d8708e249645dc61e9ac2b,workingout_2,introversion,introvert,4,3358.0,59,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+8c789f799828a39e17673dfe411ddd43f289a4090b11e453560a3befe1d15aa2,workingout_2,introversion,introvert,3,3724.0,49,Male,White,United States,United States,United States,English,No,Full-Time
+046a583f1fef98bbbf35508dbe98a26ae4f8c1f67c75595a018c71a63c63e39e,workingout_2,introversion,introvert,3,3405.0,56,Male,White,United States,United States,United States,English,No,Full-Time
+38d208a9202e917744fb1a33fe948a7b97d5c451ec950da9a3059ab00c9f137c,workingout_2,extroversion,introvert,2,4232.0,31,Male,White,United States,United States,United States,English,No,Part-Time
+a42369950ad1b1a74f654745d2bc6f9400b3c8d5a306f25ae52a46040e04da80,workingout_2,introversion,introvert,0,1392.0,31,Female,Asian,United States,United States,United States,English,No,Full-Time
+4ebb007939806cec69a033e170d1812b8e6cfd3979c18d341c4c562846e39e70,workingout_2,equal,introvert,0,5025.0,28,Male,Asian,United States,United States,United States,English,No,Full-Time
+e9ddb711e6b184fb81b1581f6bf8c0e2b8351b6604569f113fb8ee527ba7c73d,workingout_2,introversion,introvert,3,785.0,34,Female,Asian,Japan,United States,Japan,Japanese,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+84db36c0f274975537fbe44af6611a5f901ca29971d956e05f84625370aacd25,workingout_2,introversion,introvert,2,5717.0,42,Male,White,United States,United States,United States,English,No,Full-Time
+204b35f9398ad00faf3a221a925dbc8e02758fb6bc30e384d032e3d5f4ee7e94,workingout_2,introversion,introvert,2,6471.0,29,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+e6d3339a811570a9f7031c9c326e690d788bc8faf689645c688103748445c224,workingout_2,introversion,introvert,3,5647.0,34,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+1e511f4bf7486f60d3bddd7f666d1361f239ba541dd49b6fb01e92a978702b48,workingout_2,introversion,introvert,2,8133.0,48,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+641e3b41c38aa4322be875907f1764e0154343954531c5a8f98cfad6de2b29d6,workingout_2,introversion,introvert,1,7650.0,30,Female,Asian,Korea,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+8c6c3d71faffd82ae52a433d5ce225f8be2c620511597acb3f322fc781b5e292,workingout_2,introversion,introvert,2,3760.0,37,Male,White,United States,United States,United States,English,No,Full-Time
+19c82045377fd2322fa57504ad5c2843187f286e5d4ba249ade83e95ef7280db,workingout_2,introversion,introvert,1,6899.0,38,Female,White,United States,United States,United States,English,DATA_EXPIRED,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+ac34f1168337284d22a10ad3fcd765e6d178a86a4e6861e77bd7446bbed1a6e9,workingout_2,equal,introvert,3,1349.0,24,Female,White,United States,United States,United Kingdom,English,No,Part-Time
+2c3641480e52d69b7a467cc56ebe7bfa0d373c2705995ea09320f9019b939338,workingout_2,introversion,introvert,1,9539.0,64,Male,Asian,United States,United States,United States,English,No,Full-Time
+a9e50230766dd2618956ae063b3ed7b3600019e7d96224b38eb5dbcdbd4bca74,workingout_2,introversion,introvert,3,1654.0,34,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+561bba33308b460c3ab029d6a8b232e8b6550e2301ef83ea3265991bfe22dac3,workingout_2,introversion,introvert,2,5844.0,59,Female,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+f31b65c9ef3677b6ccc9f223f21ef4c2c31a0488a96982f72b5fa34bbc2edf1e,workingout_2,introversion,introvert,1,9491.0,42,Male,White,United States,United States,United States,English,Yes,Full-Time
+279aab10767cb04ab351a709442d3f2effaafa20d64169b5d8bc03f14ef538fa,workingout_2,extroversion,introvert,3,1571.0,36,Male,White,United States,United States,United States,English,No,Full-Time
+5e3ca76f50cb70adf05ca60f66ae372c26f647d16ed2de443ed75847a5d3074a,workingout_2,introversion,introvert,3,6023.0,35,Male,Mixed,United States,United States,United States,English,No,Full-Time
+e43d44eec7fbb9047fa99085f6d8a48c18836a41b1360f620bb78f9b4d11b7df,workingout_2,extroversion,introvert,4,7359.0,41,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+9064f0f9fc70b73c882b1ff3b60bf35ccbdc5966c84ef416e66804c02be0a2c6,workingout_2,introversion,introvert,2,3354.0,61,Male,White,United States,United States,United States,English,No,Full-Time
+56691893db40421711c11e1847e71e39197d4124015e5341cfac5ece840476dd,workingout_2,extroversion,introvert,0,3559.0,24,Female,White,United States,United States,United States,English,Yes,Full-Time
+b4d9c7858e7aa7801b88de032932988124e38a099464d2243a3ba732f6604a7e,workingout_2,equal,introvert,3,8348.0,36,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+29933de9bfb7d7bcc106dba28b8b4b8e535d718f1a4912a4e7c9903b216dd863,workingout_2,introversion,introvert,2,3309.0,66,Male,White,Netherlands,United States,Netherlands,Dutch,No,Full-Time
+22c473471f0c0ea8144858239f5b52adb45c09917b02d63310a72bde7654cf60,workingout_2,extroversion,introvert,3,681.0,40,Female,Black,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+c7d44cf04c42fd700a766e8d2fd01b7eb87fccdfbcfa51bc268d072d57402bcc,workingout_2,introversion,introvert,1,545.0,26,Female,Asian,United States,United States,Korea,English,No,Full-Time
+b790e82878c10daa7ca636c9a7c61a5f8621f232c0785c44d91acd2cdad7a77b,workingout_2,extroversion,introvert,4,2389.0,25,Female,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+8271ae4dda7947f08cc6e04bde322146a1cb3570becd6a3eaca963cbdda8aca3,workingout_2,equal,introvert,0,4499.0,31,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+24a41014c474e1c001e322a5a430f495e16645ff32c4b8093c26db442338a7f6,workingout_2,introversion,introvert,1,821.0,50,Female,White,United States,United States,United States,English,No,Full-Time
+ed05a23b28eb66dca774d60267fc4b02895bfa96a37addb0ef9a6b8a8bd4d434,workingout_2,introversion,introvert,1,3881.0,31,Male,Asian,United States,United States,United States,English,No,Full-Time
+f948181cb5fe53c032af4ddf13ea21cb170c3414012c72d215256aa43560e920,workingout_2,introversion,introvert,0,6842.0,31,Female,White,United States,United States,United States,English,No,Full-Time
+ab4aa5d9268a4bece8e98b252fbb0136828ffc86bac00dfaa1c053361613403e,workingout_2,introversion,introvert,3,625.0,35,Female,White,United States,United States,United States,English,No,Part-Time
+fe48479bbbbfc73b15e85d65e39c6f886936e3a4d60eb0bf3ba39a0c2eb79f4b,workingout_2,equal,introvert,3,3942.0,50,Male,White,United States,United States,United States,English,No,Other
+f0ef8b8d56092411f778ecc8f353bca680db14e6d41415756e51a6add6095b43,workingout_2,equal,introvert,2,2724.0,53,Male,White,United States,United States,United States,English,No,Part-Time
+2ba3a5ef252ad44729b4755d01897f33262fd9f10bdf4bd9ec865c4629fbd608,workingout_2,introversion,introvert,3,5883.0,62,Female,White,United States,United States,United States,English,No,Part-Time
+19a1ef07db86155fb84dd9212599c110a07cd890ce9d9fdf9b3be224f20df415,workingout_2,introversion,introvert,3,4900.0,29,Female,White,United States,United States,United States,English,No,Full-Time
+0b1a7ead97d854d59c9bb46d86bce2197f0bac535a79ef771d96daabfa40b86e,workingout_2,equal,introvert,2,1826.0,56,Male,White,United States,United States,United States,English,No,Full-Time
+dd73aa4ef01506fa0647c38634b080098bdc2d93f7a1ed1920d38014fdb9f68b,workingout_2,extroversion,introvert,2,2334.0,39,Male,Asian,United States,United States,United States,English,Yes,Full-Time
+6c1eb8623b18c19cc79ab4827e6bd999162d79dd131aef22370114c675f49b82,workingout_2,extroversion,introvert,4,1394.0,38,Male,Other,United States,United States,United States,English,No,Full-Time
+ee6bfaa23b8812bbc0aa3919ad19cb589ecfda91a6ee11aa3fe812930baa5148,workingout_2,extroversion,introvert,3,4770.0,38,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+dda96bba936f508f28b8a119bbee7263c586b0fc6226d486a62f05b0ac8f6b72,workingout_2,introversion,introvert,2,6400.0,50,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+fd31081c3741c3838ee2a87a5526a4e11399ec1a6f1069ea177d3fd8ac40c89d,workingout_2,introversion,introvert,4,938.0,39,Female,Mixed,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+aef56c133a608450b75130630c5a3fc91fdfa1841ca94ca8703b6efedb5a570c,workingout_2,introversion,introvert,3,5361.0,49,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+912303d2f52758ac17a63a89b9ade5f224b94f0b94f527025da2f8adf0f9a663,workingout_2,equal,introvert,0,5964.0,34,Male,White,United States,United States,United States,English,No,Full-Time
+baa17db014b60653cf571b9d77b4ef247daa784e4e2cf56552cc36605e764e9b,workingout_2,introversion,introvert,2,2817.0,39,Female,White,United States,United States,United States,English,No,Full-Time
+57205ce80c7884d8a8330d7d84a1c0a85865a7cf0614a1d19d98504e14efe92c,workingout_2,introversion,introvert,4,1022.0,42,Female,Black,United States,United States,United States,English,No,Full-Time
+772845ceed1b9c13009f68f4bbfbc25688024383bac81f03e3f046d46066e1f0,workingout_2,introversion,introvert,3,2201.0,67,Male,White,United States,United States,United States,English,No,Full-Time
+85757d9c65b39853fc641c20ac59b2fbe07bbaa4385ad4361049f8b6b2731f2a,workingout_2,extroversion,introvert,2,5324.0,31,Female,Asian,United States,United States,United States,English,No,Full-Time
+639592be64cbe6a1d55f81b2d0d2ac97bf222395ff1ae923019899de59c76e91,workingout_2,introversion,introvert,2,1672.0,29,Female,Asian,Bangladesh,United States,Bangladesh,Bengali,Yes,Full-Time
+599d6d9a6a16b6714591af5d01f045d29f75a647e054b3106f2cb345c0f3ab06,workingout_2,introversion,introvert,2,1799.0,41,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+9790e750739cef3309dc04fa02696ea1fa99f49905274069a4f3db90fab18056,workingout_2,introversion,introvert,3,1879.0,37,Male,Black,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+d7f8a13c8d14d7521a17d4f4272e48b7b0debc0600dfc0b6690807d85090e5ed,workingout_2,equal,introvert,1,1327.0,43,Male,White,United States,United States,United States,English,No,Full-Time
+f607f390586a2c367839674526921957adbfb02a4a02a85ab3b8bf5f232d0199,workingout_2,introversion,introvert,0,2282.0,26,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+6d7ed7e6efbddfa6a1994892ec50e2592d1ab5bc025b8be8481967e1799051c8,workingout_2,equal,introvert,4,540.0,43,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+ee6aaaa28f1b4db7b5e96a7a603e8e032b74078e67ec4a0e486f7a4a70cfee47,workingout_2,introversion,introvert,2,5081.0,32,Male,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+f665192ff4bcb9adb460db82a5a2ef054584d62c1a8de8f0a67a0fd217849e94,workingout_2,introversion,introvert,1,6366.0,52,Female,White,United States,United States,United States,English,No,Full-Time
+604f049e4a8be65f5d2e1182502bc5602d14f3b91b66ecd9e4312ddae371cec2,workingout_2,introversion,introvert,4,3372.0,32,Male,Other,Mexico,United States,United States,English,Yes,Full-Time
+20ae3387d5f656eea892c9de5890661107c35a006a1d0a7c4d233b6fc3dd8b50,workingout_2,extroversion,introvert,2,752.0,31,Female,Asian,Vietnam,United States,Vietnam,Vietnamese,No,DATA_EXPIRED
+1e14fbd92937c7b9df2cd6ce57f53971212666f242ae0fc29992305d9471d5d3,workingout_2,introversion,introvert,2,2154.0,48,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+ca2f03c8345a52afd7b9f2bcc97806a4ae348e00596c39ae5f1732225e573706,workingout_2,extroversion,introvert,1,649.0,60,Female,White,United Kingdom,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+c30f7b7ba39ad6009c813afb1b9ab524becc12746b9cbceea18f06e313739330,workingout_2,introversion,introvert,2,7530.0,44,Female,Asian,United States,United States,United States,English,No,Full-Time
+6104f7d117e97012af866c9dfb91495bf6710efb4bf12da8365a467c014817f9,workingout_2,introversion,introvert,3,4781.0,36,Male,Mixed,United States,United States,United States,English,No,Full-Time
+6104f7d117e97012af866c9dfb91495bf6710efb4bf12da8365a467c014817f9,workingout_2,introversion,introvert,3,4781.0,36,Male,Mixed,United States,United States,United States,English,No,Full-Time
+44d78f7f57fbe9ade6bc65f18b49db950e556686914b2b8df022f4c3be285803,workingout_2,introversion,introvert,3,1834.0,38,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+ee10973941cadb5731242033742c08b3b175f216eed9e202c335526dfd8cd608,workingout_2,introversion,introvert,4,972.0,35,Female,DATA_EXPIRED,United States,United States,United States,English,No,Full-Time
+584dad99ee520a7e61ee86f1c6eca0782b19e8ec6c124e3fb7b0dccb55051135,workingout_2,equal,introvert,4,3378.0,26,Female,White,United States,United States,United States,English,No,Full-Time
+003a15c5f241c9d1346062fdac0d04dbe7b5c7af53d77e65e23a31f23bab17ac,workingout_2,equal,introvert,4,3324.0,34,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+edfff12fecd3c886eab4d4bb2304595e1f65e1eeb5811ed7c448314da528a7e6,workingout_2,introversion,introvert,4,820.0,37,Female,Black,United States,United States,United States,English,No,Part-Time
+b23d695e410680503126ce4d794721ea60add361ea86fa1cb4e385844922cd37,workingout_2,extroversion,extravert,1,4447.0,40,Male,White,United States,United States,United States,English,No,Full-Time
+527431fa37cf2463e3ae10b331130450ad2ca8da541fd38529cf5134a6c60dfc,workingout_2,introversion,extravert,2,6582.0,28,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+1ea5e973d83b0b164193c3380bc2820aa931bd2e00ec8aafca7584cb569b30e7,workingout_2,introversion,extravert,3,4113.0,59,Male,White,United States,United States,United States,English,No,Full-Time
+01783584844bde63fca23df56d2b3cf94c8f8c21fd86279ca42ab6d1eb4f76d7,workingout_2,equal,extravert,4,8178.0,35,Female,White,United States,United States,United States,English,No,Full-Time
+875107442094e14b03832a065e79fdfc2ba963471a45dde0faac9a9eb8e1a26e,workingout_2,extroversion,extravert,4,6275.0,36,Male,Asian,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+469d9bcc4529b5bdb191648040d6fd3c370b7817d3ca7c6a07e4447f77b15a23,workingout_2,introversion,extravert,3,2331.0,44,Male,Other,Turkey,United States,Turkey,Turkish,No,Full-Time
+6d6f55dea82199ee328964c762a064a24b41ffcacac1e2e7e9efcf064c9828e0,workingout_2,introversion,extravert,4,4852.0,36,Female,White,United States,United States,United States,English,No,Full-Time
+7d6e4a48ba9dc5725d8ffe503cc4f901f6b0430c8561c7dde0c8b42f0a23c794,workingout_2,introversion,extravert,3,5283.0,55,Male,White,Spain,United States,United States,English,No,Full-Time
+44639d92cf7b8b1239dbce125123f83cdb6c44e8c880941a98c24fdece563600,workingout_2,introversion,extravert,1,2955.0,62,Male,White,United States,United States,United States,English,No,Full-Time
+ba40eda591c4cfe6d34113349f61daba654590fd3b0671767508389c8de2afa2,workingout_2,introversion,extravert,3,1558.0,69,Female,White,United States,United States,United States,English,No,Other
+2f73e76520c24cfd330034a6c942950fd5b5a1d4ab6f2a9da27db48a4c4bbbd9,workingout_2,extroversion,extravert,2,2894.0,44,Male,White,United States,United States,United States,English,No,Full-Time
+f623f33fcdc3e60b89e3466e69e76a299d3daec9fa76c1c5268f99df981d3f65,workingout_2,extroversion,extravert,2,2335.0,68,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+2e94525505593a9135dac64ef5fa9bb1fdb3ea811af39f11ad8ce865789a770b,workingout_2,introversion,extravert,3,1588.0,65,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+28784bbcbbe0382158cc9078003e99b139ab54843f468390b5a81f6c536288a7,workingout_2,introversion,extravert,4,4913.0,56,Male,White,United States,United States,United States,English,No,DATA_EXPIRED
+122d7553d6a9dd981ceece3abd9ceb2463d687d86c80b6dd0d63a57e8049b097,workingout_2,extroversion,extravert,3,7581.0,45,Male,White,United States,United States,United States,English,Yes,Full-Time
+0cfe5373fcbcbd61013dd2c763ed41b366170a8438067b256ef76e61956111ae,workingout_2,introversion,extravert,1,2646.0,60,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+e22eda86a09523ae15a59d927d546657feda98fb9fb6c092fb2f762c7c94dfa4,workingout_2,introversion,extravert,3,4641.0,48,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+f8d36cca369d23afb59b1e074de88f0c38faaa3a0db404fcfb069e2310a3e21f,workingout_2,equal,extravert,2,4811.0,60,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+e38f43269031a955e39a123b2c6138b7b241ca6c0ad44acabecf3b11e164e48b,workingout_2,extroversion,extravert,2,2507.0,36,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+445625a05344db675417b034ddb954f212e6064afdb6b9183f2a4b3350f28bde,workingout_2,extroversion,extravert,2,2435.0,30,Female,White,United States,United States,United States,English,No,Part-Time
+ab10a1ec037138a2d2ec1e8bc1edb10422773a3f137bb7cda0d992aaa98d0ce9,workingout_2,introversion,extravert,3,3351.0,45,Male,White,United States,United States,United States,English,No,Full-Time
+8d018bfd9763efee6bb5a0a7afb84af0952c7685581fb3ee867b776d6481c55b,workingout_2,extroversion,extravert,3,4261.0,30,Male,White,United States,United States,United States,English,Yes,Full-Time
+6f74e9ca0b2b5f18ae6f556202fef1b3f16f07758b23a220dba5843225944a3a,workingout_2,equal,extravert,0,3930.0,55,Male,White,United States,United States,United States,English,No,Part-Time
+b5bea74371605759ddc77867a00bb2c0eab2d322f4b153ef98acf67854565132,workingout_2,introversion,extravert,4,4607.0,71,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+4a84bf2df6b81171a2ab0052e077990acefbd17dc06a0bc1c560628a40dfbd11,workingout_2,equal,extravert,2,6099.0,46,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+df65de70b9daeea0d577a07dd30b94e4ab8137f8e92981f26594cba4cccd93ed,workingout_2,equal,extravert,3,4089.0,69,Male,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+84e0fa78f04ca8fd9ec845731f57a82457ab6cb4086a727f118a89097df7f188,workingout_2,introversion,extravert,4,5983.0,51,Female,White,United States,United States,United States,English,No,Full-Time
+38badb0c0124f2ad3ff65e33150eff928ffb6a1b9430ff21158ce78b173c4651,workingout_2,introversion,extravert,3,2637.0,62,Female,White,United States,United States,United States,English,No,Full-Time
+45a796ce4491209b12b774f715faf8ac7d582e9638e2443e96c61c85e0431b62,workingout_2,introversion,extravert,4,7171.0,58,Male,White,United States,United States,United States,English,No,Full-Time
+ee66e0b11c29548be2cb86115d507cc3d1824fa2dd18307fc043fd820782fea1,workingout_2,equal,extravert,0,847.0,30,Female,White,United States,United States,United States,English,No,Full-Time
+4396bd64ee041071cb7d27a052545e1b6c50de7269c104b15c809fb1a4f50751,workingout_2,equal,extravert,4,1409.0,54,Female,White,United States,United States,United States,English,Yes,Full-Time
+18ccb78afb9a6f7e78977cf4603a9853ca00af14640d4a6ccad8b9dea832f24e,workingout_2,extroversion,extravert,1,1284.0,27,Male,White,Russian Federation,United States,Russian Federation,English,No,Part-Time
+4916723814f2e06554523cf9697ad26c800b0d38beb0433580891a8763b64688,workingout_2,extroversion,extravert,3,1382.0,50,Female,White,United States,United States,United States,English,No,Full-Time
+d85ccafe0f69f1eb6e2a8c17f048d8dec6f9bf39d9e85cacfeeb5e1212f9afa2,workingout_2,introversion,extravert,1,2582.0,54,Female,White,United States,United States,United States,English,No,Part-Time
+433ef778e0e7bb83fb53ec3ed057ced34feba866542c557bb0eb9ec5010db610,workingout_2,introversion,extravert,3,474.0,37,Female,White,United States,United States,United States,English,No,Unemployed (and job seeking)
+ffb18386e4fb0d0cbf4615d9d7da0eb9ef31b5c9fba9606e34c3d9a768fd713f,workingout_2,introversion,extravert,2,7523.0,56,Male,White,United States,United States,United States,English,DATA_EXPIRED,Full-Time
+5fc712458a773d22ead869e8eb853464feb6a201574007921f05fb875815b600,workingout_2,extroversion,extravert,3,3075.0,50,Male,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+2a1a575fc8c5280a5870af6015a955f291106c5c5686552553611f6e9753c6a1,workingout_2,introversion,extravert,3,5248.0,43,Female,White,United States,United States,United States,English,DATA_EXPIRED,DATA_EXPIRED
+c4fa874995b997055e83eb7bf906e6cb1d8130cab541510c749bfa97e2b9bdf9,workingout_2,introversion,extravert,2,1830.0,41,Female,White,United States,United States,United States,English,No,DATA_EXPIRED
+bede5157018b0b7d1e4ef8d2eb6315ad2a841320d460c7ef4fd4cf1a93dbb9e6,workingout_2,extroversion,extravert,2,5528.0,44,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+4d4d80c2523bf6faa4006e179526b7594e32117304ee7308595ef44fdf031d3b,workingout_2,extroversion,extravert,4,1294.0,33,Female,Black,United States,United States,United States,English,No,Part-Time
+3d13a0655ca5578661a35053fa27f1e09fb7ee9d6928e7b759636abb24c1ab74,workingout_2,extroversion,extravert,4,2332.0,41,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+a56b38e11088c1c3e2e22a267e80bd9c81f527005316c051f5ca3f27f32a8d5d,workingout_2,introversion,extravert,3,4344.0,48,Female,White,United States,United States,United States,English,No,Full-Time
