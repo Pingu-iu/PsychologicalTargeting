@@ -3,40 +3,44 @@ title: "Controlled User Behavior Evaluation: Plotting"
 output: html_notebook
 ---
 
+
 ```{r}
-#install.packages("cairoDevice")
+# Install necessary packages if not already installed
 if (!requireNamespace("tidyverse", quietly = TRUE)) install.packages("tidyverse")
 if (!requireNamespace("ggplot2", quietly = TRUE)) install.packages("ggplot2")
 if (!requireNamespace("scales", quietly = TRUE)) install.packages("scales")
+if (!requireNamespace("ggpattern", quietly = TRUE)) install.packages("ggpattern") 
 
+# Load libraries
 library(tidyverse)
 library(ggplot2)
 library(scales)
+library(ggpattern) 
 
+# Data 
 data_df <- data.frame(
   Segment_Type = c("Psychometric", "Psychometric", "Psychometric", "Psychometric",
                    "Behavioral", "Behavioral", "Behavioral", "Behavioral"),
   Audience = c("Extraverts", "Extraverts", "Introverts", "Introverts",
-               "Extraverts", "Extraverts", "Introverts", "Introverts"),
+                "Extraverts", "Extraverts", "Introverts", "Introverts"),
   Ads_Design = c("Design 1", "Design 2", "Design 1", "Design 2",
-                 "Design 1", "Design 2", "Design 1", "Design 2"),
+                  "Design 1", "Design 2", "Design 1", "Design 2"),
   Introvert_ER = c(4.42, 4.49, 3.31, 1.76, 39.0, 49.8, 10.0, 10.0),
   Extravert_ER = c(2.65, 5.28, 2.42, 3.34, 43.8, 43.2, 8.3, 14.0),
   Introvert_Reach = c(271, 245, 431, 396, 331, 277, 649, 528),
   Extravert_Reach = c(264, 246, 453, 389, 236, 347, 542, 802)
 )
 
-introvert_color <- "#169d53"  
-Extravert_color <- "#155ac1"  
+introvert_color <- "#169d53"
+Extravert_color <- "#155ac1"
 
-# Melt the Engagement Rate (ER) data 
+# melt dataframe 
 er_data_long <- data_df %>%
   pivot_longer(
     cols = c("Introvert_ER", "Extravert_ER"),
     names_to = "Ad_Type",
     values_to = "Engagement_Rate"
   ) %>%
-  # Melt the Reach data and join
   left_join(
     data_df %>%
       pivot_longer(
@@ -46,7 +50,6 @@ er_data_long <- data_df %>%
       ),
     by = c("Segment_Type", "Audience", "Ads_Design")
   ) %>%
-  # Filter to ensure correct reach value matches ad type
   filter((Ad_Type == "Introvert_ER" & Reach_Type == "Introvert_Reach") |
            (Ad_Type == "Extravert_ER" & Reach_Type == "Extravert_Reach"))
 
@@ -54,25 +57,38 @@ er_data_long <- data_df %>%
 plot_segment <- function(segment_type_val, ylim_max_val) {
   segment_df_filtered <- er_data_long %>%
     filter(Segment_Type == segment_type_val) %>%
-    # Ensure correct order for x-axis labels
     mutate(Audience_Ads = paste(Audience, Ads_Design, sep = "_")) %>%
     arrange(Audience, Ads_Design) %>%
     mutate(Audience_Ads = factor(Audience_Ads, levels = unique(Audience_Ads)))
 
-  # Create a custom grouping variable for dodging and x-axis labels
-  # This combines Audience and Ads_Design for unique x-axis positions
   segment_df_filtered$x_axis_label <- factor(paste(segment_df_filtered$Audience, segment_df_filtered$Ads_Design),
                                              levels = unique(paste(segment_df_filtered$Audience, segment_df_filtered$Ads_Design)))
 
   p <- ggplot(segment_df_filtered, aes(x = Audience, y = Engagement_Rate, fill = Ad_Type, group = interaction(Audience, Ads_Design, Ad_Type))) +
-    geom_bar(stat = "identity", position = position_dodge(width = 0.8), width = 0.35,
-             aes(alpha = Ads_Design)) + # Use alpha for hatching effect
-    scale_fill_manual(values = c("Introvert_ER" = introvert_color, "Extravert_ER" = Extravert_color),
-                      labels = c("Introvert_ER" = "Introvert Ad", "Extravert_ER" = "Extravert Ad")) +
-    scale_alpha_manual(values = c("Design 1" = 1, "Design 2" = 0.3), # Adjust alpha for hatching effect
-                       labels = c("Design 1" = "Design 1", "Design 2" = "Design 2")) +
-    geom_text(aes(label = Reach_Value, y = Engagement_Rate + ylim_max_val * 0.03), # Adjust y-offset for reach text
-              position = position_dodge(width = 0.8), vjust = 0, size = 3) + # Nudge text to match bars
+    
+    geom_bar_pattern(
+      stat = "identity",
+      position = position_dodge(width = 0.8),
+      width = 0.35,
+      aes(pattern = Ads_Design), # Map Ads_Design to pattern
+      pattern_fill = "transparent", 
+      pattern_color = "white",   
+      pattern_alpha = 0.3,          
+      pattern_spacing = 0.02,       # dash spacing 
+      pattern_density = 0.05        # line density 
+    ) +
+    scale_fill_manual(
+      values = c("Introvert_ER" = introvert_color, "Extravert_ER" = Extravert_color),
+      labels = c("Introvert_ER" = "Introvert Ad", "Extravert_ER" = "Extravert Ad")
+    ) +
+    scale_pattern_manual(
+      values = c("Design 1" = "none", "Design 2" = "stripe"),
+      labels = c("Design 1" = "Design 1", "Design 2" = "Design 2")
+    ) +
+    # Add text labels for Reach Value
+    geom_text(aes(label = Reach_Value, y = Engagement_Rate + ylim_max_val * 0.03),
+              position = position_dodge(width = 0.8), vjust = 0, size = 3) +
+    # Set plot labels and limits
     labs(
       x = NULL,
       y = "Engagement Rate (%)",
@@ -92,41 +108,41 @@ plot_segment <- function(segment_type_val, ylim_max_val) {
       legend.box = "horizontal",
       legend.title = element_blank()
     )
-
-  # Custom legend with combined fill and alpha
-  p + guides(fill = guide_legend(override.aes = list(alpha = 1))) +
-      guides(alpha = guide_legend(override.aes = list(fill = "gray")))
+  p <- p +
+    guides(
+      fill = guide_legend(override.aes = list(pattern = "none")), # Ensure fill legend items are solid
+      pattern = guide_legend(override.aes = list(fill = "gray", pattern_fill = "gray", pattern_color = "white", pattern_alpha = 0.5)) 
+    )
+  return(p)
 }
 
-# Plotting Psychometric data
 plot_psychometric <- plot_segment("Psychometric", 5.5)
 print(plot_psychometric)
 
 ggsave(
-  "psychometric_plot.eps", 
+  "psychometric_plot.eps",
   plot = plot_psychometric,
-  device = cairo_ps,      
-  width = 7,              
-  height = 5,             
+  device = cairo_ps,
+  width = 7,
+  height = 5,
   units = "in",
-  dpi = 300,             
-  fallback_resolution = 300 
+  dpi = 300,
+  fallback_resolution = 300
 )
 
-# Plotting Behavioral data
 plot_behavioral <- plot_segment("Behavioral", 55)
 print(plot_behavioral)
 
 ggsave(
-  "behavioral_plot.eps", 
+  "behavioral_plot.eps",
   plot = plot_behavioral,
-  device = cairo_ps,      
-  width = 7,              
-  height = 5,             
+  device = cairo_ps,
+  width = 7,
+  height = 5,
   units = "in",
-  dpi = 300,             
-  fallback_resolution = 300 
+  dpi = 300,
+  fallback_resolution = 300
 )
 
-
 ```
+
