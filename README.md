@@ -1,6 +1,6 @@
 # Auditing Algorithmic Responsiveness to Psychological Traits: Evidence from Meta's Ad Delivery
 
-This repository contains the data, analysis code, and survey instruments supporting the study titled **"Experimental Evidence of Personality Alignment Influence on Ad Delivery on Meta"**.
+This repository contains the data, analysis code, and survey instruments supporting the study titled **"Auditing Algorithmic Responsiveness to Psychological Traits: Evidence from Meta's Ad Delivery"**.
 
 ## Overview
 
@@ -54,16 +54,6 @@ Analysis notebooks for audience construction, ad appeal ratings, and interpretat
 - Survey materials and behavioral results can be accessed in the `/data/` folder.
 - `insights.py` contains functions interfacing with the Meta Graph API (Insights API) to programmatically retrieve campaign performance data—reach, impressions, engagement metrics, and cost—across campaigns, ad sets, and individual ads.
 - `utils.py` contains functions interfacing Meta Graph API to programmatically retrieve information about campaigns, ad sets, ads, and audiences. 
-
-
-## License
-
-This work is shared under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), unless otherwise stated. Please cite appropriately when using or adapting this work.
-
-## Contact
-
-For questions or collaborations, please reach out to the project lead via the corresponding author contact in the associated publication.
-
 
 
 
