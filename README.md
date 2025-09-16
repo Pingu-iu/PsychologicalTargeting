@@ -1,4 +1,4 @@
-# Experimental evidence of personality alignment effects on ad delivery on Meta
+# Auditing Algorithmic Responsiveness to Psychological Traits: Evidence from Meta's Ad Delivery
 
 This repository contains the data, analysis code, and survey instruments supporting the study titled **"Experimental Evidence of Personality Alignment Influence on Ad Delivery on Meta"**.
 
